@@ -1,0 +1,13 @@
+# 수작업 원본 데이터 (보안 데이터 — 업로드 금지)
+manual_data/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 환경변수
+.env
