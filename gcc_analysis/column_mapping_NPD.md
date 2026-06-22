@@ -22,7 +22,7 @@
 | `forml_code` | 소제형코드 | 제형코드 | 제형코드 | Small class code | - | - |
 | `product_name` | 접수 제품명 (신제품접수코드 이름) | 제품명 | 제품명 | Product Name | Product Name | - |
 | `bulk_name` | 접수 벌크명 (벌크구분코드 이름) | 제품명 | 벌크명 | Bulk Name | Product Name | Bulk name |
-| `customer_name` | 고객사명 | 고객사명 | 고객사명 | Customer | Customer Name | Customer |
+| `customer_name` | 고객사명 | 고객사명 | 고객사명 | Customer | Customer Name(Will be updated automatically When you add correct NPD code) | Customer |
 | `brand_name` | 브랜드명 | 브랜드명 | 브랜드명 | Brand | Brand | Brand |
 | `last_labno` | 최종 랩넘버 | - | 랩넘버 | - | - | - |
 | `requester_id` | 의뢰법인 담당연구원 사번 | - | - | - | - | - |
@@ -40,7 +40,7 @@
 | `req_team` | 의뢰법인 마케팅 팀 | 마케팅팀 | 마케팅팀 | - | - | Sales team |
 | `req_num` | 의뢰번호 | - | - | - | - | - |
 | `del_yn` | 삭제여부 | 삭제여부 | 삭제여부 | - | - | - |
-| `memo` | 비고 | 비고(是否储备品) | Sample/Benchmark/Lab.# | Entity, Status, OTC(Sunscreen) | Sub Category | Formulation, New/existing |
+| `memo` | 비고 | 비고(是否储备品) | Sample/Benchmark/Lab.# | Entity, Status, OTC(Sunscreen) | Sub Categofy | Formulation, New/existing |
 
 > `-` : 해당 법인 수작업 파일에 매핑 컬럼 없음 (시스템DB에서 직접 조회하거나 수작업 데이터에 미포함)
 > 셀 값이 쉼표로 구분된 복수 컬럼명인 경우, 해당 컬럼들을 `|` 구분자로 이어붙여 하나의 표준 컬럼에 저장함
