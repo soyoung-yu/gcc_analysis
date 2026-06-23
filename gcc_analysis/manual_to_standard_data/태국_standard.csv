@@ -1,0 +1,889 @@
+﻿req_type_nm,dev_comp_id,req_nation_cd,request_date,gcc_category,proc_status,product_code,bulk_code,mitem,item2,forml_code,product_name,bulk_name,customer_name,brand_name,last_labno,requester_id,requester_name,req_teamnm,developer_id,developer_name,dev_teamnm,reg_id,reg_nm,reg_deptid,reg_team,req_id,req_nm,req_team,req_num,del_yn,memo,exclude_reason,is_in_aggregate
+,,,2026-01-05,립 메이크업,,,P3T1260000201,,,,Melted Lip Treat SPF15_2,Melted Lip Treat SPF15_2,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-01-05,립 메이크업,,,P3T1260000101,,,,Melted Lip Treat SPF15_1,Melted Lip Treat SPF15_1,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-01-05,립 메이크업,,,P3T1260000701,,,,Peptide Serum Lip Tint_5,Peptide Serum Lip Tint_5,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-05,립 메이크업,,,P3T1260000601,,,,Peptide Serum Lip Tint_4,Peptide Serum Lip Tint_4,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-05,립 메이크업,,,P3T1260000501,,,,Peptide Serum Lip Tint_3,Peptide Serum Lip Tint_3,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-05,립 메이크업,,,P3T1260000401,,,,Peptide Serum Lip Tint_2,Peptide Serum Lip Tint_2,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-05,립 메이크업,,,P3T1260000301,,,,Peptide Serum Lip Tint_1,Peptide Serum Lip Tint_1,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-05,립 메이크업,,,P3T1260000901,,,,Mentholatum,Mentholatum,"ROHTO-MENTHOLATUM (THAILAND) CO., LTD.","ROHTO-MENTHOLATUM (THAILAND) CO., LTD.",,,,,,,,,,,,,Noah,,,,LipTint(Dispersion),,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260002101,,,,Capsule Hybrid Foundation_5,Capsule Hybrid Foundation_5,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260002001,,,,Capsule Hybrid Foundation_4,Capsule Hybrid Foundation_4,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260001901,,,,Capsule Hybrid Foundation_3,Capsule Hybrid Foundation_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260001801,,,,Capsule Hybrid Foundation_2,Capsule Hybrid Foundation_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260001701,,,,Capsule Hybrid Foundation_1,Capsule Hybrid Foundation_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260002601,,,,Two Layers Hybrid Foundation_5,Two Layers Hybrid Foundation_5,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260002501,,,,Two Layers Hybrid Foundation_4,Two Layers Hybrid Foundation_4,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260002401,,,,Two Layers Hybrid Foundation_3,Two Layers Hybrid Foundation_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260002301,,,,Two Layers Hybrid Foundation_2,Two Layers Hybrid Foundation_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260002201,,,,Two Layers Hybrid Foundation_1,Two Layers Hybrid Foundation_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,P9T12600035,P3T1260003501,,,,Foundation Stick_5,Foundation Stick_5,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,P9T12600034,P3T1260003401,,,,Foundation Stick_4,Foundation Stick_4,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,P9T12600033,P3T1260003301,,,,Foundation Stick_3,Foundation Stick_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,P9T12600032,P3T1260003201,,,,Foundation Stick_2,Foundation Stick_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,P9T12600031,P3T1260003101,,,,Foundation Stick_1,Foundation Stick_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260004601,,,,Hybrid Clear Primer_1,Hybrid Clear Primer_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Primer,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260004101,,,,Balm Pact Foundation Stick_5,Balm Pact Foundation Stick_5,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260004001,,,,Balm Pact Foundation Stick_4,Balm Pact Foundation Stick_4,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260003901,,,,Balm Pact Foundation Stick_3,Balm Pact Foundation Stick_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260003801,,,,Balm Pact Foundation Stick_2,Balm Pact Foundation Stick_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260003701,,,,Balm Pact Foundation Stick_1,Balm Pact Foundation Stick_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FoundationOthers,,True
+,,,2026-01-05,베이스 메이크업,,,P3T1260003601,,,,Her Hyness Velvet Matte Cushion_1,Her Hyness Velvet Matte Cushion_1,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Tong,,,,Foundation(Spongetype),,True
+,,,2026-01-05,팩/마스크,,P9T12600027,,,,,Gen Z Hydra Plump Glow,Gen Z Hydra Plump Glow,"Beautrium Co.,Ltd.",BAREME,,,,,,,,,,,,,ChaCha,,,,MaskSheet,,True
+,,,2026-01-05,팩/마스크,,P9T12600028,,,,,Gen Z Caffeine Smooth Glow,Gen Z Caffeine Smooth Glow,"Beautrium Co.,Ltd.",BAREME,,,,,,,,,,,,,ChaCha,,,,MaskSheet,,True
+,,,2026-01-05,팩/마스크,,P9T12600029,,,,,Gen Z Niacin Bright Glow,Gen Z Niacin Bright Glow,"Beautrium Co.,Ltd.",BAREME,,,,,,,,,,,,,ChaCha,,,,MaskSheet,,True
+,,,2026-01-05,팩/마스크,,P9T12600030,,,,,Gen Z Pore Repair Glow,Gen Z Pore Repair Glow,"Beautrium Co.,Ltd.",BAREME,,,,,,,,,,,,,ChaCha,,,,MaskSheet,,True
+,,,2026-01-05,스킨류,,P9T12600048,,,,,Cream Mist Prep and Set Fixing Spray,Cream Mist Prep and Set Fixing Spray,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FacialMist,,True
+,,,2026-01-05,스킨류,,P9T12600049,,,,,Two Layers Mist Prep and Set Fixing Spray,Two Layers Mist Prep and Set Fixing Spray,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FacialMist,,True
+,,,2026-01-06,선,,P9T12600062,,,,,MISTINE AQUA BASE ULTRA PROTECTION HYDRATE&BRIGHT SUNSCREEN LOTION SPF50+ PA++++,MISTINE AQUA BASE ULTRA PROTECTION HYDRATE&BRIGHT SUNSCREEN LOTION SPF50+ PA++++,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Nan,,,,SunCream,,True
+,,,2026-01-06,선,,P9T12600063,,,,,MISTINE AQUA BASE ULTRA PROTECTION BRIGHT&GLOW SUNSCREEN  SPF50+ PA++++,MISTINE AQUA BASE ULTRA PROTECTION BRIGHT&GLOW SUNSCREEN  SPF50+ PA++++,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Nan,,,,SunCream,,True
+,,,2026-01-07,기타,,,,,,,Born to Be Collection _1,Born to Be Collection _1,MIZUHADA GROUP COMPANY LIMITED,Gentle Colors,,,,,,,,,,,,,Ni,,,,Perfume,,True
+,,,2026-01-07,기타,,,,,,,Born to Be Collection _2,Born to Be Collection _2,MIZUHADA GROUP COMPANY LIMITED,Gentle Colors,,,,,,,,,,,,,Ni,,,,Perfume,,True
+,,,2026-01-07,기타,,,,,,,Born to Be Collection _3,Born to Be Collection _3,MIZUHADA GROUP COMPANY LIMITED,Gentle Colors,,,,,,,,,,,,,Ni,,,,Perfume,,True
+,,,2026-01-07,기타,,,,,,,Born to Be Collection _4,Born to Be Collection _4,MIZUHADA GROUP COMPANY LIMITED,Gentle Colors,,,,,,,,,,,,,Ni,,,,Perfume,,True
+,,,2026-01-07,베이스 메이크업,,,P3T1260005001,,,,LEMONADE NO MAKEUP SUPERMATTE LOOSE POWDER - PINK (Upgrade ),LEMONADE NO MAKEUP SUPERMATTE LOOSE POWDER - PINK (Upgrade ),"GENA PACIFIC.,JSC",LAMONADE,,,,,,,,,,,,,Auey,,,,FacePowder,,True
+,,,2026-01-07,립 메이크업,,,P3T1260005301,,,,Sasi Zero Velvet Tint _1,Sasi Zero Velvet Tint _1,"Srichand United Dispensary Co., Ltd.",SASI,,,,,,,,,,,,,Belle,,,,LipTint(Dispersion),,True
+,,,2026-01-07,립 메이크업,,,P3T1260005201,,,,Sasi Superstay Matte Ink _1,Sasi Superstay Matte Ink _1,"Srichand United Dispensary Co., Ltd.",SASI,,,,,,,,,,,,,Belle,,,,LipTint(Dispersion),,True
+,,,2026-01-07,립 메이크업,,,P3T1260005101,,,,Sasi Lip Matte_1,Sasi Lip Matte_1,"Srichand United Dispensary Co., Ltd.",SASI,,,,,,,,,,,,,Belle,,,,LipTint(Dispersion),,True
+,,,2026-01-08,아이 메이크업,,,P3T1250065601,,,,Jovina Volume and Curling Waterproof Mascara_1,Jovina Volume and Curling Waterproof Mascara_1,"GK Beauty Co., Ltd",Jovina,,,,,,,,,,,,,Belle,,,,Mascara,,True
+,,,2026-01-08,아이 메이크업,,,P3T1250065501,,,,Jovina Quick lash and curler mascara_1,Jovina Quick lash and curler mascara_1,"GK Beauty Co., Ltd",Jovina,,,,,,,,,,,,,Belle,,,,Mascara,,True
+,,,2026-01-08,아이 메이크업,,,P3T1250065401,,,,FIBER LONG & CURLING MASCARA_1,FIBER LONG & CURLING MASCARA_1,"GK Beauty Co., Ltd",Jovina,,,,,,,,,,,,,Belle,,,,Mascara,,True
+,,,2026-01-08,립 메이크업,,,P3T1260007501,,,,Cho Cloudy Velvet Lip Gloss 19,Cho Cloudy Velvet Lip Gloss 19,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,LipTint(Emulsion),,True
+,,,2026-01-08,립 메이크업,,,P3T1260007401,,,,Cho Cloudy Velvet Lip Gloss 18,Cho Cloudy Velvet Lip Gloss 18,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,LipTint(Emulsion),,True
+,,,2026-01-08,립 메이크업,,,P3T1260007301,,,,Cho Cloudy Velvet Lip Gloss 17,Cho Cloudy Velvet Lip Gloss 17,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,LipTint(Emulsion),,True
+,,,2026-01-08,립 메이크업,,,P3T1260007201,,,,Cho Cloudy Velvet Lip Gloss 16,Cho Cloudy Velvet Lip Gloss 16,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,LipTint(Emulsion),,True
+,,,2026-01-08,립 메이크업,,,P3T1260007101,,,,Cho Cloudy Velvet Lip Gloss 15,Cho Cloudy Velvet Lip Gloss 15,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,LipTint(Emulsion),,True
+,,,2026-01-08,립 메이크업,,,P3T1260007001,,,,Cho Cloudy Velvet Lip Gloss 14,Cho Cloudy Velvet Lip Gloss 14,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,LipTint(Emulsion),,True
+,,,2026-01-08,립 메이크업,,,P3T1260006901,,,,Cho Cloudy Velvet Lip Gloss 13,Cho Cloudy Velvet Lip Gloss 13,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,LipTint(Emulsion),,True
+,,,2026-01-12,베이스 메이크업,,,P3T1260005601,,,,Horus Loose Powdeŕ́ * ́́́́́Warm Neutral,Horus Loose Powdeŕ́ * ́́́́́Warm Neutral,Intercontinental Cosmetic Investment and Fashion Joint Stock Company,HORUS,,,,,,,,,,,,,Julia,,,,FacePowder,,True
+,,,2026-01-12,베이스 메이크업,,,P3T1260005501,,,,Horus Loose Powder *'Cool Neutral,Horus Loose Powder *'Cool Neutral,Intercontinental Cosmetic Investment and Fashion Joint Stock Company,HORUS,,,,,,,,,,,,,Julia,,,,FacePowder,,True
+,,,2026-01-12,베이스 메이크업,,,P3T1260005401,,,,Horus Loose Powder *Transparen,Horus Loose Powder *Transparen,Intercontinental Cosmetic Investment and Fashion Joint Stock Company,HORUS,,,,,,,,,,,,,Julia,,,,FacePowder,,True
+,,,2026-01-12,베이스 메이크업,,,P3T1260005901,,,,HORUS Press Powder*Warm Neutral,HORUS Press Powder*Warm Neutral,Intercontinental Cosmetic Investment and Fashion Joint Stock Company,HORUS,,,,,,,,,,,,,Julia,,,,PowderPact,,True
+,,,2026-01-12,베이스 메이크업,,,P3T1260005801,,,,HORUS Press Powder *Cool Neutral,HORUS Press Powder *Cool Neutral,Intercontinental Cosmetic Investment and Fashion Joint Stock Company,HORUS,,,,,,,,,,,,,Julia,,,,PowderPact,,True
+,,,2026-01-12,베이스 메이크업,,,P3T1260005701,,,,HORUS Press Powder *Transparent,HORUS Press Powder *Transparent,Intercontinental Cosmetic Investment and Fashion Joint Stock Company,HORUS,,,,,,,,,,,,,Julia,,,,PowderPact,,True
+,,,2026-01-12,기타,,,P3T1260006701,,,,Hair Cover Powder-Shade 04,Hair Cover Powder-Shade 04,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,MUProductOthers,,True
+,,,2026-01-12,기타,,,P3T1260006601,,,,Hair Cover Powder-Shade 03,Hair Cover Powder-Shade 03,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,MUProductOthers,,True
+,,,2026-01-12,기타,,,P3T1260006501,,,,Hair Cover Powder-Shade 02,Hair Cover Powder-Shade 02,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,MUProductOthers,,True
+,,,2026-01-12,기타,,,P3T1260006401,,,,Hair Cover Powder-Shade 01,Hair Cover Powder-Shade 01,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,MUProductOthers,,True
+,,,2026-01-12,스킨류,,P9T12600077,,,,,Moist Surge Bubble Mask,Moist Surge Bubble Mask,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,EssenceOthers,,True
+,,,2026-01-12,스킨류,,P9T12600078,,,,,Lift Aura Bubble Mask,Lift Aura Bubble Mask,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,EssenceOthers,,True
+,,,2026-01-12,스킨류,,P9T12600079,,,,,Bright Shot Bubble Mask,Bright Shot Bubble Mask,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,EssenceOthers,,True
+,,,2026-01-12,스킨류,,P9T12600081,,,,,Skin-prep base serum,Skin-prep base serum,"Mega Cosmetic (Thailand) Co.,Ltd.",ODBO,,,,,,,,,,,,,Spy,,,,Essence/Ampoule,,True
+,,,2026-01-13,베이스 메이크업,,,P3T1260009301,,,,Matte Cover Foundation_3,Matte Cover Foundation_3,Focus Beauty (Thailand) Ltd.,FOR THE FACE,,,,,,,,,,,,,Fay,,,,Foundation,,True
+,,,2026-01-13,베이스 메이크업,,,P3T1260009201,,,,Matte Cover Foundation_2,Matte Cover Foundation_2,Focus Beauty (Thailand) Ltd.,FOR THE FACE,,,,,,,,,,,,,Fay,,,,Foundation,,True
+,,,2026-01-13,베이스 메이크업,,,P3T1260009101,,,,Matte Cover Foundation_1,Matte Cover Foundation_1,Focus Beauty (Thailand) Ltd.,FOR THE FACE,,,,,,,,,,,,,Fay,,,,Foundation,,True
+,,,2026-01-13,립 메이크업,,,P3T1260008701,,,,FOR THE FACE Velvet Lip._1,FOR THE FACE Velvet Lip._1,Focus Beauty (Thailand) Ltd.,FOR THE FACE,,,,,,,,,,,,,Fay,,,,LipTint(Dispersion),,True
+,,,2026-01-13,립 메이크업,,,P3T1260009501,,,,Twentywendy Reflexia Shiny Lip Glow OPT 2,Twentywendy Reflexia Shiny Lip Glow OPT 2,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,LipTint(Dispersion),,True
+,,,2026-01-13,립 메이크업,,,P3T1260009401,,,,Twentywendy Reflexia Shiny Lip Glow OPT 1_1,Twentywendy Reflexia Shiny Lip Glow OPT 1_1,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,LipTint(Dispersion),,True
+,,,2026-01-13,선,,P9T12600096,,,,,Sofu Skin UV Daily Super Protection 50+ PA++++,Sofu Skin UV Daily Super Protection 50+ PA++++,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Noah,,,,SunLotion,,True
+,,,2026-01-13,선,,P9T12600097,,,,,Sofu Skin UV Daily Super Cooling Protection 50+ PA++++,Sofu Skin UV Daily Super Cooling Protection 50+ PA++++,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Noah,,,,SunLotion,,True
+,,,2026-01-13,스킨류,,P9T12600098,,,,,Gluta Glow Serum,Gluta Glow Serum,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Belle,,,,Essence/Ampoule,,True
+,,,2026-01-13,선,,P9T12600106,,,,,Daara Aqua Light Facial Sun Screen,Daara Aqua Light Facial Sun Screen,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Noah,,,,SunCream,,True
+,,,2026-01-13,선,,P9T12600107,,,,,Daara Facial Sun Screen Tone Up Bright & Glow,Daara Facial Sun Screen Tone Up Bright & Glow,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Noah,,,,SunLotion,,True
+,,,2026-01-13,팩/마스크,,P9T12600111,,,,,Daara Toner Pad Super Hya Boost 10 pcs,Daara Toner Pad Super Hya Boost 10 pcs,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Noah,,,,MaskSheetOthers,,True
+,,,2026-01-13,팩/마스크,,P9T12600112,,,,,Daara Toner Pad Super Glow 10 pcs,Daara Toner Pad Super Glow 10 pcs,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Noah,,,,MaskSheetOthers,,True
+,,,2026-01-13,팩/마스크,,P9T12600122,,,,,Wisebrave Phyto Collagen Cream Mask ,Wisebrave Phyto Collagen Cream Mask ,"WISE BRAVE CO., LTD.",ThaTier,,,,,,,,,,,,,Belle,,,,Pack/Mask(SleepingPack),,True
+,,,2026-01-13,스킨류,,P9T12600132,,,,,Jelly Mist Serum,Jelly Mist Serum,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,FacialMist,,True
+,,,2026-01-13,스킨류,,P9T12600133,,,,,NIA+PDRN SERUM,NIA+PDRN SERUM,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,Essence/Ampoule,,True
+,,,2026-01-14,클렌징,,P9T12600108,,,,,Sofu Skin Deep Cleansing + Hya Whip Foam_1,Sofu Skin Deep Cleansing + Hya Whip Foam_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,FoamCleansing,,True
+,,,2026-01-14,클렌징,,P9T12600109,,,,,Sofu Skin Acne Clear + AHA BHA_1,Sofu Skin Acne Clear + AHA BHA_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,Cleansing Gel,,True
+,,,2026-01-14,클렌징,,P9T12600110,,,,,Sofu Skin Absolute Oil Cleanser_1,Sofu Skin Absolute Oil Cleanser_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,Cleansing Oil,,True
+,,,2026-01-14,클렌징,,P9T12600113,,,,,Sofu Skin Shower Cream Candy Pop_1,Sofu Skin Shower Cream Candy Pop_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,BodyCleanser,,True
+,,,2026-01-14,클렌징,,P9T12600114,,,,,Sofu Skin Shower Cream Candy Pop_1,Sofu Skin Shower Cream Candy Pop_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,BodyCleanser,,True
+,,,2026-01-14,클렌징,,P9T12600115,,,,,Sofu Skin Shower Gel Cooling Fresh_1,Sofu Skin Shower Gel Cooling Fresh_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,BodyCleanser,,True
+,,,2026-01-14,클렌징,,P9T12600116,,,,,Skin Purra PH Balance Body Wash _1,Skin Purra PH Balance Body Wash _1,"Central Food Retail Co.,LTD.-TOPS",Skin Purra ,,,,,,,,,,,,,Noah,,,,BodyCleanser,,True
+,,,2026-01-14,클렌징,,P9T12600117,,,,,Skin Purra SA Smoothing_1,Skin Purra SA Smoothing_1,"Central Food Retail Co.,LTD.-TOPS",Skin Purra ,,,,,,,,,,,,,Noah,,,,BodyCleanser,,True
+,,,2026-01-14,클렌징,,P9T12600118,,,,,Sofu Skin Total Care Foam Bath_1,Sofu Skin Total Care Foam Bath_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,BodyCleanser,,True
+,,,2026-01-14,클렌징,,P9T12600119,,,,,Sofu Skin Healthy White Foam Bath _1,Sofu Skin Healthy White Foam Bath _1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,BodyCleanser,,True
+,,,2026-01-14,헤어,,P9T12600123,,,,,Blooms Nature Love Perfume Shine Shampoo_1,Blooms Nature Love Perfume Shine Shampoo_1,"Central Food Retail Co.,LTD.-TOPS",Blooms,,,,,,,,,,,,,Noah,,,,Shampoo,,True
+,,,2026-01-14,헤어,,P9T12600124,,,,,Blooms Nature Love Perfume Bond Restore Shampoo_1,Blooms Nature Love Perfume Bond Restore Shampoo_1,"Central Food Retail Co.,LTD.-TOPS",Blooms,,,,,,,,,,,,,Noah,,,,Shampoo,,True
+,,,2026-01-14,헤어,,P9T12600125,,,,,Blooms Nature Love Hair Mist Perfume Liquid Silk Keratin_1,Blooms Nature Love Hair Mist Perfume Liquid Silk Keratin_1,"Central Food Retail Co.,LTD.-TOPS",Blooms,,,,,,,,,,,,,Noah,,,,HairEssence,,True
+,,,2026-01-14,헤어,,P9T12600126,,,,,Silkuno microbiome Scult Shampoo_1,Silkuno microbiome Scult Shampoo_1,"Central Food Retail Co.,LTD.-TOPS",Silkuno,,,,,,,,,,,,,Noah,,,,Shampoo,,True
+,,,2026-01-14,헤어,,P9T12600127,,,,,Silkuno Ultra Shine Keratin Shampoo_1,Silkuno Ultra Shine Keratin Shampoo_1,"Central Food Retail Co.,LTD.-TOPS",Silkuno,,,,,,,,,,,,,Noah,,,,Shampoo,,True
+,,,2026-01-14,헤어,,P9T12600128,,,,,Silkuno Microbiome Scult Treatment Spray_1,Silkuno Microbiome Scult Treatment Spray_1,"Central Food Retail Co.,LTD.-TOPS",Silkuno,,,,,,,,,,,,,Noah,,,,HairEssence,,True
+,,,2026-01-14,헤어,,P9T12600129,,,,,Silkuno Ultra Shine Keratin Treatment_1,Silkuno Ultra Shine Keratin Treatment_1,"Central Food Retail Co.,LTD.-TOPS",Silkuno,,,,,,,,,,,,,Noah,,,,Hair Treatment,,True
+,,,2026-01-14,헤어,,P9T12600130,,,,,Silkuno Oil Treatment Revive Damage_1,Silkuno Oil Treatment Revive Damage_1,"Central Food Retail Co.,LTD.-TOPS",Silkuno,,,,,,,,,,,,,Noah,,,,HairOil,,True
+,,,2026-01-14,헤어,,P9T12600131,,,,,Silkuno Oil Treatment Healthy Shine_1,Silkuno Oil Treatment Healthy Shine_1,"Central Food Retail Co.,LTD.-TOPS",Silkuno,,,,,,,,,,,,,Noah,,,,HairOil,,True
+,,,2026-01-14,스킨류,,P9T12600105,,,,,Skin Purra PH Balance Moisturizer_1,Skin Purra PH Balance Moisturizer_1,"Central Food Retail Co.,LTD.-TOPS",Skin Purra ,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-01-14,스킨류,,P9T12600104,,,,,Blooms Nature Love Aroma Milk Body White Jusmine_1,Blooms Nature Love Aroma Milk Body White Jusmine_1,"Central Food Retail Co.,LTD.-TOPS",Blooms,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-01-14,스킨류,,P9T12600103,,,,,Blooms Nature Love Aroma Milk Body Lotion Lavender Scent_1,Blooms Nature Love Aroma Milk Body Lotion Lavender Scent_1,"Central Food Retail Co.,LTD.-TOPS",Blooms,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-01-14,스킨류,,P9T12600102,,,,,Skin Purra Ageless Firm Booster Serum_1,Skin Purra Ageless Firm Booster Serum_1,"Central Food Retail Co.,LTD.-TOPS",Skin Purra ,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-01-14,스킨류,,P9T12600101,,,,,Skin Purra Aura Glow Booter Serum_1,Skin Purra Aura Glow Booter Serum_1,"Central Food Retail Co.,LTD.-TOPS",Skin Purra ,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-01-14,스킨류,,P9T12600100,,,,,Sofu Skin Nourishing Body Lotion Sweet Honey Hanuka_1,Sofu Skin Nourishing Body Lotion Sweet Honey Hanuka_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-01-14,스킨류,,P9T12600099,,,,,Sofu Nourishing Body Lotion Candy Pop_1,Sofu Nourishing Body Lotion Candy Pop_1,"Central Food Retail Co.,LTD.-TOPS",Sofu Skin,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-01-14,베이스 메이크업,,,P3T1260013701,,,,GENTLE COLOR Skin Foundation SPF30+ PA++++ 02,GENTLE COLOR Skin Foundation SPF30+ PA++++ 02,MIZUHADA GROUP COMPANY LIMITED,Gentle Colors,,,,,,,,,,,,,Ni,,,,Foundation,,True
+,,,2026-01-14,베이스 메이크업,,,P3T1260013601,,,,GENTLE COLOR Skin Foundation SPF30+ PA++++ 01,GENTLE COLOR Skin Foundation SPF30+ PA++++ 01,MIZUHADA GROUP COMPANY LIMITED,Gentle Colors,,,,,,,,,,,,,Ni,,,,Foundation,,True
+,,,2026-01-16,선,,P9T12600140,,,,,The Saem Sun Gel,The Saem Sun Gel,"THE SAEM INTERNATIONAL CO.,LTD.",THE SAEM,,,,,,,,,,,,,Seoeun,,,,SunProduct(OthersSkinCare),,True
+,,,2026-01-16,크림류,,P9T12600141,,,,,Jeju fresh aloe soothing gel ,Jeju fresh aloe soothing gel ,"THE SAEM INTERNATIONAL CO.,LTD.",THE SAEM,,,,,,,,,,,,,Seoeun,,,,CreamOthers,,True
+,,,2026-01-16,스킨류,,P9T12600143,,,,,Iceland Hydrating toner,Iceland Hydrating toner,"THE SAEM INTERNATIONAL CO.,LTD.",THE SAEM,,,,,,,,,,,,,Seoeun,,,,Toner,,True
+,,,2026-01-16,크림류,,P9T12600147,,,,,Iceland hydrating soothing gel,Iceland hydrating soothing gel,"THE SAEM INTERNATIONAL CO.,LTD.",THE SAEM,,,,,,,,,,,,,Seoeun,,,,CreamOthers,,True
+,,,2026-01-16,크림류,,P9T12600146,,,,,Iceland aqua gel cream,Iceland aqua gel cream,"THE SAEM INTERNATIONAL CO.,LTD.",THE SAEM,,,,,,,,,,,,,Seoeun,,,,Cream,,True
+,,,2026-01-16,스킨류,,P9T12600144,,,,,Iceland hydrating emulsion,Iceland hydrating emulsion,"THE SAEM INTERNATIONAL CO.,LTD.",THE SAEM,,,,,,,,,,,,,Seoeun,,,,Lotion,,True
+,,,2026-01-16,크림류,,P9T12600142,,,,,Jeju fresh aloe cream,Jeju fresh aloe cream,"THE SAEM INTERNATIONAL CO.,LTD.",THE SAEM,,,,,,,,,,,,,Seoeun,,,,Cream,,True
+,,,2026-01-19,헤어,,P9T12600148,,,,,MOISTURIZE CONDITIONER,MOISTURIZE CONDITIONER,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,HairConditioner,,True
+,,,2026-01-19,헤어,,P9T12600149,,,,,DEEP CARE CONDITIONER,DEEP CARE CONDITIONER,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,HairConditioner,,True
+,,,2026-01-19,헤어,,P9T12600150,,,,,INTENSIVE FOR DAMAGE HAIR CONDITIONER,INTENSIVE FOR DAMAGE HAIR CONDITIONER,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,HairConditioner,,True
+,,,2026-01-19,베이스 메이크업,,P9T12600154,,,,,CC CREAM SPF40_2,CC CREAM SPF40_2,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,CCCream,,True
+,,,2026-01-19,베이스 메이크업,,P9T12600153,,,,,CC CREAM SPF40_1,CC CREAM SPF40_1,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,CCCream,,True
+,,,2026-01-19,선,,P9T12600151,,,,,Goodal GREEN TANGERINE VITA-C Dark Spot Care Tone up cream SPF50 PA++++,Goodal GREEN TANGERINE VITA-C Dark Spot Care Tone up cream SPF50 PA++++,"CLIO COSMETICS CO.,LTD.",GOODAL,,,,,,,,,,,,,Yoon,,,,SunCream,,True
+,,,2026-01-19,선,,P9T12600156,,,,,RE:CIPE Tone up sun cream SPF50 PA++++,RE:CIPE Tone up sun cream SPF50 PA++++,"A-MAX (THAILAND) CO., LTD.",RE:CIPE COSMETICS,,,,,,,,,,,,,Yoon,,,,SunCream,,True
+,,,2026-01-19,선,,P9T12600157,,,,,RE:CIPE daily sun cream SPF50 PA++++,RE:CIPE daily sun cream SPF50 PA++++,"A-MAX (THAILAND) CO., LTD.",RE:CIPE COSMETICS,,,,,,,,,,,,,Yoon,,,,SunCream,,True
+,,,2026-01-20,팩/마스크,,P9T12600159,,,,,Cica Blemish Sheet Mask,Cica Blemish Sheet Mask,CENTRAL DEPARTMENT STORE LTD.,KIS,,,,,,,,,,,,,Chacha,,,,MaskSheet,,True
+,,,2026-01-20,팩/마스크,,P9T12600160,,,,,Madecassoside Blemish Toner Pad,Madecassoside Blemish Toner Pad,CENTRAL DEPARTMENT STORE LTD.,KIS,,,,,,,,,,,,,ChaCha,,,,MaskSheetOthers,,True
+,,,2026-01-20,스킨류,,P9T12600161,,,,,Dual Glow Moisturizing Mist,Dual Glow Moisturizing Mist,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,Chacha,,,,FacialMist,,True
+,,,2026-01-21,립 메이크업,,P9T12600163,,,,,Jelly Lip Pouch_1,Jelly Lip Pouch_1,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,LipTint(Dispersion),,True
+,,,2026-01-21,립 메이크업,,P9T12600167,,,,,HH Velvet Lip Liquid_4,HH Velvet Lip Liquid_4,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,LipTint(Dispersion),,True
+,,,2026-01-21,립 메이크업,,P9T12600166,,,,,HH Velvet Lip Liquid_3,HH Velvet Lip Liquid_3,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,LipTint(Dispersion),,True
+,,,2026-01-21,립 메이크업,,P9T12600165,,,,,HH Velvet Lip Liquid_2,HH Velvet Lip Liquid_2,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,LipTint(Dispersion),,True
+,,,2026-01-21,립 메이크업,,P9T12600164,,,,,HH Velvet Lip Liquid_1,HH Velvet Lip Liquid_1,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,LipTint(Dispersion),,True
+,,,2026-01-21,베이스 메이크업,,,P3T1260017701,,,,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_7,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_7,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-01-21,베이스 메이크업,,,P3T1260017601,,,,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_6,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_6,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-01-21,베이스 메이크업,,,P3T1260017501,,,,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_5,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_5,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-01-21,베이스 메이크업,,,P3T1260017401,,,,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_4,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_4,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-01-21,베이스 메이크업,,,P3T1260017301,,,,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_3,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_3,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-01-21,베이스 메이크업,,,P3T1260017201,,,,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_2,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_2,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-01-21,베이스 메이크업,,,P3T1260017101,,,,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_1,Her Hyness Pore Blinded Skin Cushion SPF50 PA++++_1,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-01-21,팩/마스크,,P9T12600162,,,,,Acne-Prone Bio Sheet Mask  ,Acne-Prone Bio Sheet Mask  ,Miss Angsana Lertkitpaisarn,TBC,,,,,,,,,,,,,Fay,,,,MaskSheet,,True
+,,,2026-01-21,팩/마스크,,P9T12600168,,,,,GO SKIN: MOISTURIZING & BALANCING PAD ,GO SKIN: MOISTURIZING & BALANCING PAD ,"PHANVARA INTERNATIONAL CO.,LTD.",GO SKIN,,,,,,,,,,,,,Belle,,,,MaskSheetOthers,,True
+,,,2026-01-21,팩/마스크,,P9T12600169,,,,,GO SKIN: CLEAR ACNE PAD ,GO SKIN: CLEAR ACNE PAD ,"PHANVARA INTERNATIONAL CO.,LTD.",GO SKIN,,,,,,,,,,,,,Belle,,,,MaskSheetOthers,,True
+,,,2026-01-21,선,,P9T12600170,,,,,MISTINE ULTRA PROTECTION BRIGHT&LIGHT SPORT WATER RESISTANT SUNSCREEN MILK SPF50+ PA++++,MISTINE ULTRA PROTECTION BRIGHT&LIGHT SPORT WATER RESISTANT SUNSCREEN MILK SPF50+ PA++++,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Nan,,,,SunCream,,True
+,,,2026-01-22,베이스 메이크업,,P9T12600179,,,,,SISTAR BLURING PRIMER_1,SISTAR BLURING PRIMER_1,"BEST AND BILLION BEAUTY CO., LTD.",SISTAR,,,,,,,,,,,,,Belle,,,,Primer,,True
+,,,2026-01-22,아이 메이크업,,,P3T2260015201,,,,TWENTYWENDY BE KIND TO CRY ULTRA-SLIM GEL LINER BLACK,TWENTYWENDY BE KIND TO CRY ULTRA-SLIM GEL LINER BLACK,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,Eyeliner (Cream&Gel type),,True
+,,,2026-01-22,아이 메이크업,,,P3T2260015501,,,,TWENTYWENDY BE KIND TO CRY ULTRA-SLIM GEL LINER BROWN,TWENTYWENDY BE KIND TO CRY ULTRA-SLIM GEL LINER BROWN,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,Eyeliner (Cream&Gel type),,True
+,,,2026-01-22,베이스 메이크업,,P9T12600178,,,,,EVERPINK Watery Balm Skin Balancing Primer Essence_1,EVERPINK Watery Balm Skin Balancing Primer Essence_1,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Primer,,True
+,,,2026-01-23,스킨류,,P9T12600180,,,,,D.A.P by Watsons Aesthetic PDRN Skin Booster Ampoule Serum,D.A.P by Watsons Aesthetic PDRN Skin Booster Ampoule Serum,"Central Watson Co.,Ltd.",DAP,,,,,,,,,,,,,Cherry,,,,Essence/Ampoule,,True
+,,,2026-01-23,스킨류,,P9T12600181,,,,,D.A.P by Watsons Aesthetic PDRN Skin Booster Toner,D.A.P by Watsons Aesthetic PDRN Skin Booster Toner,"Central Watson Co.,Ltd.",DAP,,,,,,,,,,,,,Cherry,,,,Toner,,True
+,,,2026-01-23,크림류,,P9T12600182,,,,,D.A.P by Watsons Aesthetic PDRN Skin Booster Moisture Cream,D.A.P by Watsons Aesthetic PDRN Skin Booster Moisture Cream,"Central Watson Co.,Ltd.",DAP,,,,,,,,,,,,,Cherry,,,,Cream,,True
+,,,2026-01-23,팩/마스크,,P9T12600183,,,,,D.A.P by Watsons Aesthetic PDRN Skin Booster Mask Sheet,D.A.P by Watsons Aesthetic PDRN Skin Booster Mask Sheet,"Central Watson Co.,Ltd.",DAP,,,,,,,,,,,,,Cherry,,,,MaskSheet,,True
+,,,2026-01-26,선,,P9T12600185,,,,,Aqua Proof Sunlution SPF50+ PA++++,Aqua Proof Sunlution SPF50+ PA++++,HELLO BRUSHTOO COMPANY LIMITED,SKINTOO,,,,,,,,,,,,,Spy,,,,SunCream,,True
+,,,2026-01-27,헤어,,P9T12600188,,,,,AAH PREMIUM OIL CONTROL SHAMPOO ,AAH PREMIUM OIL CONTROL SHAMPOO ,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,Shampoo,,True
+,,,2026-01-27,헤어,,P9T12600187,,,,, SCALP CARE SHAMPOO PREMIUM, SCALP CARE SHAMPOO PREMIUM,ALL ABOUT HAIR COSMETICS LIMITED COMPANY,ALL ABOUT HAIR,,,,,,,,,,,,,Julia,,,,Shampoo,,True
+,,,2026-01-27,립 메이크업,,P9T12600193,,,,,STAIN LIP TINT_5,STAIN LIP TINT_5,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-27,립 메이크업,,P9T12600192,,,,,STAIN LIP TINT_4,STAIN LIP TINT_4,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-27,립 메이크업,,P9T12600191,,,,,STAIN LIP TINT_3,STAIN LIP TINT_3,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-27,립 메이크업,,P9T12600190,,,,,STAIN LIP TINT_2,STAIN LIP TINT_2,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-27,립 메이크업,,P9T12600189,,,,,STAIN LIP TINT_1,STAIN LIP TINT_1,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,LipTint(Emulsion),,True
+,,,2026-01-27,립 메이크업,,P9T12600200,,,,,Lip Plumper_2,Lip Plumper_2,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,Chacha,,,,LipGlossOthers,,True
+,,,2026-01-27,립 메이크업,,P9T12600199,,,,,Lip Plumper_1,Lip Plumper_1,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,Chacha,,,,LipGlossOthers,,True
+,,,2026-01-27,베이스 메이크업,,P9T12600207,,,,,Multi-Use Cream Blush _3,Multi-Use Cream Blush _3,Miss Naddaporn Nivatvongs,TBC,,,,,,,,,,,,,Seoeun,,,,Blusher(Sticktype),,True
+,,,2026-01-27,베이스 메이크업,,P9T12600206,,,,,Multi-Use Cream Blush _2,Multi-Use Cream Blush _2,Miss Naddaporn Nivatvongs,TBC,,,,,,,,,,,,,Seoeun,,,,Blusher(Sticktype),,True
+,,,2026-01-27,베이스 메이크업,,P9T12600205,,,,,Multi-Use Cream Blush _1,Multi-Use Cream Blush _1,Miss Naddaporn Nivatvongs,TBC,,,,,,,,,,,,,Seoeun,,,,Blusher(Sticktype),,True
+,,,2026-01-27,립 메이크업,,P9T12600204,,,,,Lip Glow_1,Lip Glow_1,Miss Naddaporn Nivatvongs,TBC,,,,,,,,,,,,,Seoeun,,,,LipTint(Dispersion),,True
+,,,2026-01-27,크림류,,P9T12600202,,,,,MizuMi Moisture Extra Dry,MizuMi Moisture Extra Dry,MIZUHADA GROUP COMPANY LIMITED,MizuMi,,,,,,,,,,,,,Ni,,,,Cream,,True
+,,,2026-01-27,선,,P9T12600208,,,,,Brunchtime daily aqua all UV sunscreen SPF50+PA++++,Brunchtime daily aqua all UV sunscreen SPF50+PA++++,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,SunCream,,True
+,,,2026-01-30,크림류,,P9T12600213,,,,,CLYN PRISM PDRN™ Moisture Cream,CLYN PRISM PDRN™ Moisture Cream,"CLYN SKINCARE (THAILAND) CO.,LTD.",CLYN,,,,,,,,,,,,,Jah,,,,Cream,,True
+,,,2026-01-30,스킨류,,P9T12600214,,,,,Rose Gold Dark Spot Clearing Serum ,Rose Gold Dark Spot Clearing Serum ,"ROSEGOLD CORP CO., LTD.",ROSE GOLD,,,,,,,,,,,,,Jah,,,,Essence/Ampoule,,True
+,,,2026-02-03,팩/마스크,,P9T12600219,,,,,SRICHAND Acne Care Ampoule Mask,SRICHAND Acne Care Ampoule Mask,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Noah,,,,MaskSheet,,True
+,,,2026-02-03,팩/마스크,,P9T12600227,,,,,SRICHAND Camellia PDRN Bright Glowing Ampoule Mask,SRICHAND Camellia PDRN Bright Glowing Ampoule Mask,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Noah,,,,MaskSheet,,True
+,,,2026-02-03,팩/마스크,,P9T12600228,,,,,SRICHAND Barrier Boost Soothing,SRICHAND Barrier Boost Soothing,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Noah,,,,MaskSheet,,True
+,,,2026-02-04,베이스 메이크업,,,P3T1260022601,,,,CHT BRIGHT-UP SKIN BASE SPF15 PA+ _3,CHT BRIGHT-UP SKIN BASE SPF15 PA+ _3,"NONGCHAT INTER GROUP CO., LTD.",CHAT,,,,,,,,,,,,,Tong,,,,MakeupBase,,True
+,,,2026-02-04,베이스 메이크업,,,P3T1260022501,,,,CHT BRIGHT-UP SKIN BASE SPF15 PA+ _2,CHT BRIGHT-UP SKIN BASE SPF15 PA+ _2,"NONGCHAT INTER GROUP CO., LTD.",CHAT,,,,,,,,,,,,,Tong,,,,MakeupBase,,True
+,,,2026-02-04,베이스 메이크업,,,P3T1260022401,,,,CHT BRIGHT-UP SKIN BASE SPF15 PA+ _1,CHT BRIGHT-UP SKIN BASE SPF15 PA+ _1,"NONGCHAT INTER GROUP CO., LTD.",CHAT,,,,,,,,,,,,,Tong,,,,MakeupBase,,True
+,,,2026-02-04,베이스 메이크업,,,P3T1260022301,,,,Everpink Tinted Matte Cushion _J04,Everpink Tinted Matte Cushion _J04,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-02-04,베이스 메이크업,,,P3T1260022201,,,,Everpink Tinted Matte Cushion _J03,Everpink Tinted Matte Cushion _J03,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-02-04,베이스 메이크업,,,P3T1260022101,,,,Everpink Tinted Matte Cushion _J02,Everpink Tinted Matte Cushion _J02,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-02-04,베이스 메이크업,,,P3T1260022001,,,,Everpink Tinted Matte Cushion _J21,Everpink Tinted Matte Cushion _J21,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-02-06,립 메이크업,,,P3T2260022901,,,,Moleculogy Lip Liner_1,Moleculogy Lip Liner_1,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,LipstickOthers,,True
+,,,2026-02-09,스킨류,,P9T12600235,,,,,BELLA MEN FACE GEL,BELLA MEN FACE GEL,"ABC Beauty Co.,Ltd",BELLA MEN,,,,,,,,,,,,,Tong,,,,Essence/Ampoule,,True
+,,,2026-02-10,스킨류,,P9T12600236,,,,,b Men Acne Fight Serum Gel,b Men Acne Fight Serum Gel,"ABC Beauty Co.,Ltd",BELLA MEN,,,,,,,,,,,,,Tong,,,,Essence/Ampoule,,True
+,,,2026-02-10,선,,P9T12600237,,,,,b Men Extra Bright Serum SPF 50 PA+++,b Men Extra Bright Serum SPF 50 PA+++,"ABC Beauty Co.,Ltd",BELLA MEN,,,,,,,,,,,,,Tong,,,,SunLotion,,True
+,,,2026-02-10,선,,P9T12600238,,,,,b Men Bright & Oil Clear Serum Cream SPF 50,b Men Bright & Oil Clear Serum Cream SPF 50,"ABC Beauty Co.,Ltd",BELLA MEN,,,,,,,,,,,,,Tong,,,,SunLotion,,True
+,,,2026-02-10,헤어,,P9T12600231,,,,,Premium Scalp Care Shampoo,Premium Scalp Care Shampoo,Denank Beheer B.V.,SKNYL,,,,,,,,,,,,,Cherry,,,,Shampoo,,True
+,,,2026-02-10,헤어,,P9T12600232,,,,,Premium Scalp Care Conditioner,Premium Scalp Care Conditioner,Denank Beheer B.V.,SKNYL,,,,,,,,,,,,,Cherry,,,,HairConditioner,,True
+,,,2026-02-10,헤어,,P9T12600233,,,,,Premium Scalp Serum,Premium Scalp Serum,Denank Beheer B.V.,SKNYL,,,,,,,,,,,,,Cherry,,,,HairEssence,,True
+,,,2026-02-10,헤어,,P9T12600234,,,,,Premium Scalp Oil Treatment,Premium Scalp Oil Treatment,Denank Beheer B.V.,SKNYL,,,,,,,,,,,,,Cherry,,,,HairProductOthers,,True
+,,,2026-02-10,팩/마스크,,P9T12600242,,,,,D.A.P by Watsons Sheet Mask Anti-Aging (Relaunch),D.A.P by Watsons Sheet Mask Anti-Aging (Relaunch),"Central Watson Co.,Ltd.",DAP,,,,,,,,,,,,,Cherry,,,,MaskSheet,,True
+,,,2026-02-10,팩/마스크,,P9T12600241,,,,,D.A.P by Watsons Sheet Mask Anti-Acne (Relaunch),D.A.P by Watsons Sheet Mask Anti-Acne (Relaunch),"Central Watson Co.,Ltd.",DAP,,,,,,,,,,,,,Cherry,,,,MaskSheet,,True
+,,,2026-02-10,팩/마스크,,P9T12600240,,,,,D.A.P by Watsons Sheet Mask Brightening (Relaunch),D.A.P by Watsons Sheet Mask Brightening (Relaunch),"Central Watson Co.,Ltd.",DAP,,,,,,,,,,,,,Cherry,,,,MaskSheet,,True
+,,,2026-02-10,베이스 메이크업,,,P3T1260023901,,,,Srichand Purple Correcter Cream_1,Srichand Purple Correcter Cream_1,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Belle,,,,MakeupBase(Spongetype),,True
+,,,2026-02-11,스킨류,,P9T12600244,,,,,Brightening Serum ,Brightening Serum ,Daily Miles Consumer Products Inc.,TBC,,,,,,,,,,,,,Fay,,,,Essence/Ampoule,,True
+,,,2026-02-11,립 메이크업,,P9T12600249,,,,,Blur-Glowy Lip Tint_5,Blur-Glowy Lip Tint_5,"D. Delight Plus Co., Ltd.",NNEX,,,,,,,,,,,,,Chacha,,,,LipTint(Emulsion),,True
+,,,2026-02-11,립 메이크업,,P9T12600248,,,,,Blur-Glowy Lip Tint_4,Blur-Glowy Lip Tint_4,"D. Delight Plus Co., Ltd.",NNEX,,,,,,,,,,,,,Chacha,,,,LipTint(Emulsion),,True
+,,,2026-02-11,립 메이크업,,P9T12600247,,,,,Blur-Glowy Lip Tint_3,Blur-Glowy Lip Tint_3,"D. Delight Plus Co., Ltd.",NNEX,,,,,,,,,,,,,Chacha,,,,LipTint(Emulsion),,True
+,,,2026-02-11,립 메이크업,,P9T12600246,,,,,Blur-Glowy Lip Tint_2,Blur-Glowy Lip Tint_2,"D. Delight Plus Co., Ltd.",NNEX,,,,,,,,,,,,,Chacha,,,,LipTint(Emulsion),,True
+,,,2026-02-11,립 메이크업,,P9T12600245,,,,,Blur-Glowy Lip Tint_1,Blur-Glowy Lip Tint_1,"D. Delight Plus Co., Ltd.",NNEX,,,,,,,,,,,,,Chacha,,,,LipTint(Emulsion),,True
+,,,2026-02-11,립 메이크업,,P9T22600218,,,,,Smooth Blur Lip Liner_2,Smooth Blur Lip Liner_2,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,Noah,,,,LipstickOthers,,True
+,,,2026-02-11,립 메이크업,,P9T22600217,,,,,Smooth Blur Lip Liner_1,Smooth Blur Lip Liner_1,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,Noah,,,,LipstickOthers,,True
+,,,2026-02-12,선,,P9T12600250,,,,,Tone Up Essence SPF30 PA++,Tone Up Essence SPF30 PA++,Miss Naddaporn Nivatvongs,TBC,,,,,,,,,,,,,Seoeun,,,,SunCream,,True
+,,,2026-02-12,팩/마스크,,P9T22600252,,,,,D.A.P by Watsons Sheet Mask Hydrating Hydrogel Mask,D.A.P by Watsons Sheet Mask Hydrating Hydrogel Mask,"Central Watson Co.,Ltd.",DAP,,,,,,,,,,,,,Cherry,,,,PackOthers,,True
+,,,2026-02-17,선,,P9T12600259,,,,,Day Care Revolution SPF 50+ PA++++,Day Care Revolution SPF 50+ PA++++,Focus Beauty (Thailand) Ltd.,FOR THE FACE,,,,,,,,,,,,,Tong,,,,SunCream,,True
+,,,2026-02-17,팩/마스크,,P9T12600261,,,,,First Aid Skin Prep Toner,First Aid Skin Prep Toner,"Double Circle Co., Ltd.",deepcare,,,,,,,,,,,,,Chacha,,,,MaskSheetOthers,,True
+,,,2026-02-17,베이스 메이크업,,P9T12600260,,,,,Daily UV Hybrid Tinted Sunscreen SPF50 PA++++_1,Daily UV Hybrid Tinted Sunscreen SPF50 PA++++_1,Daily Miles Consumer Products Inc.,TBC,,,,,,,,,,,,,Nui,,,,FoundationOthers,,True
+,,,2026-02-18,베이스 메이크업,,P9T12600257,,,,,Cho Solar Pop SPF50+ PA++++_9,Cho Solar Pop SPF50+ PA++++_9,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Blusher(OthersEmulsion),,True
+,,,2026-02-18,베이스 메이크업,,P9T12600256,,,,,Cho Solar Pop SPF50+ PA++++_8,Cho Solar Pop SPF50+ PA++++_8,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Blusher(OthersEmulsion),,True
+,,,2026-02-18,베이스 메이크업,,P9T12600255,,,,,Cho Solar Pop SPF50+ PA++++_7,Cho Solar Pop SPF50+ PA++++_7,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Blusher(OthersEmulsion),,True
+,,,2026-02-18,베이스 메이크업,,P9T12600254,,,,,Cho Solar Pop SPF50+ PA++++_6,Cho Solar Pop SPF50+ PA++++_6,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Blusher(OthersEmulsion),,True
+,,,2026-02-19,립 메이크업,,,P3T1260025301,,,,Compassoul Honey Lip Balm (Disney)_1,Compassoul Honey Lip Balm (Disney)_1,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Noah,,,,LipBalm(Jartype),,True
+,,,2026-02-20,베이스 메이크업,,P9T12600258,,,,,Jovina Primer Base Make up_1,Jovina Primer Base Make up_1,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Belle,,,,Primer,,True
+,,,2026-02-20,베이스 메이크업,,P9T12600262,,,,, SRICHAND Corrector Cream  #Light, SRICHAND Corrector Cream  #Light,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Concealer(Emulsion),,True
+,,,2026-02-23,선,,P9T12600264,,,,,GLOW CARE RED COLLAGEN WATERY SUNSCREEN,GLOW CARE RED COLLAGEN WATERY SUNSCREEN,"ABC Beauty Co.,Ltd",Hearty Heart,,,,,,,,,,,,,Tong,,,,SunCream,,True
+,,,2026-02-23,크림류,,P9T12600266,,,,,Moisture Gel Cream,Moisture Gel Cream,BERLI JUCKER PUBLIC COMPANY LIMITED.,FACIZ,,,,,,,,,,,,,May,,,,Cream,,True
+,,,2026-03-02,베이스 메이크업,,,P3T1260027301,,,,Translucent powder loose gen 3 _1,Translucent powder loose gen 3 _1,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,FacePowder,,True
+,,,2026-03-02,베이스 메이크업,,,P3T1260027201,,,,Glowing Translucent powder loose gen3 _1,Glowing Translucent powder loose gen3 _1,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,FacePowder,,True
+,,,2026-03-02,베이스 메이크업,,,P3T1260027101,,,,Compact translucent powder _1,Compact translucent powder _1,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,PowderPact,,True
+,,,2026-03-02,베이스 메이크업,,,P3T1260026701,,,,MizuMi Skin Foundation SPF50+ PA++++ 03,MizuMi Skin Foundation SPF50+ PA++++ 03,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Ni,,,,Foundation,,True
+,,,2026-03-02,베이스 메이크업,,,P3T1260027801,,,,Everpink Tintted Glow Cushion_4,Everpink Tintted Glow Cushion_4,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-03-02,베이스 메이크업,,,P3T1260027701,,,,Everpink Tintted Glow Cushion_3,Everpink Tintted Glow Cushion_3,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-03-02,베이스 메이크업,,,P3T1260027601,,,,Everpink Tintted Glow Cushion_2,Everpink Tintted Glow Cushion_2,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-03-02,베이스 메이크업,,,P3T1260027501,,,,Everpink Tintted Glow Cushion_1,Everpink Tintted Glow Cushion_1,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028601,,,,TONEPOP JUICY POP LIP SERUM_8,TONEPOP JUICY POP LIP SERUM_8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028501,,,,TONEPOP JUICY POP LIP SERUM_7,TONEPOP JUICY POP LIP SERUM_7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028401,,,,TONEPOP JUICY POP LIP SERUM_6,TONEPOP JUICY POP LIP SERUM_6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028301,,,,TONEPOP JUICY POP LIP SERUM_5,TONEPOP JUICY POP LIP SERUM_5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028201,,,,TONEPOP JUICY POP LIP SERUM_4,TONEPOP JUICY POP LIP SERUM_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028101,,,,TONEPOP JUICY POP LIP SERUM_3,TONEPOP JUICY POP LIP SERUM_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028001,,,,TONEPOP JUICY POP LIP SERUM_2,TONEPOP JUICY POP LIP SERUM_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-04,립 메이크업,,,P3T1260027901,,,,TONEPOP JUICY POP LIP SERUM_1,TONEPOP JUICY POP LIP SERUM_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-04,립 메이크업,,,P3T1260029501,,,,TONEPOP SUGAR POP LIP & CHEEK-8,TONEPOP SUGAR POP LIP & CHEEK-8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-04,립 메이크업,,,P3T1260029401,,,,TONEPOP SUGAR POP LIP & CHEEK-7,TONEPOP SUGAR POP LIP & CHEEK-7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-04,립 메이크업,,,P3T1260029301,,,,TONEPOP SUGAR POP LIP & CHEEK-6,TONEPOP SUGAR POP LIP & CHEEK-6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-04,립 메이크업,,,P3T1260029201,,,,TONEPOP SUGAR POP LIP & CHEEK-5,TONEPOP SUGAR POP LIP & CHEEK-5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-04,립 메이크업,,,P3T1260029101,,,,TONEPOP SUGAR POP LIP & CHEEK-4,TONEPOP SUGAR POP LIP & CHEEK-4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-04,립 메이크업,,,P3T1260029001,,,,TONEPOP SUGAR POP LIP & CHEEK-3,TONEPOP SUGAR POP LIP & CHEEK-3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028901,,,,TONEPOP SUGAR POP LIP & CHEEK-2,TONEPOP SUGAR POP LIP & CHEEK-2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-04,립 메이크업,,,P3T1260028801,,,,TONEPOP SUGAR POP LIP & CHEEK-1,TONEPOP SUGAR POP LIP & CHEEK-1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-04,선,,P9T12600296,,,,,Melting Cream Fluid SPF50+ PA+++,Melting Cream Fluid SPF50+ PA+++,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,SunCream,,True
+,,,2026-03-05,크림류,,P9T12600300,,,,,Moleculogy Body Butter,Moleculogy Body Butter,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Fay,,,,BodyCream,,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260029901,,,,ONE DOT BLUR BRUSH ​_Neutral tone,ONE DOT BLUR BRUSH ​_Neutral tone,"Mega Cosmetic (Thailand) Co.,Ltd.",ODBO,,,,,,,,,,,,,Spy,,,,Blusher(OthersEmulsion),,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260029801,,,,ONE DOT BLUR BRUSH ​_Cool tone ,ONE DOT BLUR BRUSH ​_Cool tone ,"Mega Cosmetic (Thailand) Co.,Ltd.",ODBO,,,,,,,,,,,,,Spy,,,,Blusher(OthersEmulsion),,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260029701,,,,ONE DOT BLUR BRUSH ​_Warm tone,ONE DOT BLUR BRUSH ​_Warm tone,"Mega Cosmetic (Thailand) Co.,Ltd.",ODBO,,,,,,,,,,,,,Spy,,,,Blusher(OthersEmulsion),,True
+,,,2026-03-05,클렌징,,P9T12600268,,,,,Moleculogy cleansing oil,Moleculogy cleansing oil,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Fay,,,,CleansingOil,,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260030401,,,,Foundation Cream Stick (Color Changing)_3,Foundation Cream Stick (Color Changing)_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation(Sticktype),,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260030301,,,,Foundation Cream Stick (Color Changing)_2,Foundation Cream Stick (Color Changing)_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation(Sticktype),,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260030201,,,,Foundation Cream Stick (Color Changing)_1,Foundation Cream Stick (Color Changing)_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation(Sticktype),,True
+,,,2026-03-05,립 메이크업,,,P3T1260031101,,,,OP BUTTERY ATELIER MATTE LIP 6New Vintage Orange 121,OP BUTTERY ATELIER MATTE LIP 6New Vintage Orange 121,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260031001,,,,OP BUTTERY ATELIER MATTE LIP Matte Military Red 109,OP BUTTERY ATELIER MATTE LIP Matte Military Red 109,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260030901,,,,OP BUTTERY ATELIER MATTE LIP 4Rosewood 38,OP BUTTERY ATELIER MATTE LIP 4Rosewood 38,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260030801,,,,OP BUTTERY ATELIER MATTE LIP 3Red Velvet Crumb,OP BUTTERY ATELIER MATTE LIP 3Red Velvet Crumb,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260030701,,,,OP BUTTERY ATELIER MATTE LIP 2Choco Crust,OP BUTTERY ATELIER MATTE LIP 2Choco Crust,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260030601,,,,OP BUTTERY ATELIER MATTE LIP 1Nude Butter,OP BUTTERY ATELIER MATTE LIP 1Nude Butter,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260031401,,,,Jelly Foundation_3,Jelly Foundation_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation,,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260031301,,,,Jelly Foundation_2,Jelly Foundation_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation,,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260031201,,,,Jelly Foundation_1,Jelly Foundation_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation,,True
+,,,2026-03-05,베이스 메이크업,,,P3T1260031501,,,,Vitamin Enriched Face Base Primer_1,Vitamin Enriched Face Base Primer_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Primer,,True
+,,,2026-03-05,립 메이크업,,,P3T1260032101,,,,OP PRESS UV LIPSTICK SPF50 PA++++  Plum Blossom,OP PRESS UV LIPSTICK SPF50 PA++++  Plum Blossom,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260032001,,,,OP PRESS UV LIPSTICK SPF50 PA++++ Natural Charm,OP PRESS UV LIPSTICK SPF50 PA++++ Natural Charm,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260031901,,,,OP PRESS UV LIPSTICK SPF50 PA++++  Fall For Me,OP PRESS UV LIPSTICK SPF50 PA++++  Fall For Me,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260031801,,,,OP PRESS UV LIPSTICK SPF50 PA++++  Red Currant,OP PRESS UV LIPSTICK SPF50 PA++++  Red Currant,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260031701,,,,OP PRESS UV LIPSTICK SPF50 PA++++  Pink Guava,OP PRESS UV LIPSTICK SPF50 PA++++  Pink Guava,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,립 메이크업,,,P3T1260031601,,,,OP PRESS UV LIPSTICK SPF50 PA++++  Acai,OP PRESS UV LIPSTICK SPF50 PA++++  Acai,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Lipstick,,True
+,,,2026-03-05,스킨류,,P9T12600323,,,,,Brightening serum,Brightening serum,Daily Miles Consumer Products Inc.,TBC,,,,,,,,,,,,,Fay,,,,Essence/Ampoule,,True
+,,,2026-03-05,스킨류,,P9T12600301,,,,,Cute Press Glow Mist,Cute Press Glow Mist,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FacialMist,,True
+,,,2026-03-05,크림류,,P9T12600305,,,,,Mille Phyto PDRN Anti-Acne Gel Cream,Mille Phyto PDRN Anti-Acne Gel Cream,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,Cream,,True
+,,,2026-03-06,베이스 메이크업,,,P3T1260032701,,,,Water Fresh Blush_4,Water Fresh Blush_4,"Ruay Muen San Larn Co., Ltd.",MEU,,,,,,,,,,,,,Fay,,,,Blusher(OthersEmulsion),,True
+,,,2026-03-06,베이스 메이크업,,,P3T1260032601,,,,Water Fresh Blush_3,Water Fresh Blush_3,"Ruay Muen San Larn Co., Ltd.",MEU,,,,,,,,,,,,,Fay,,,,Blusher(OthersEmulsion),,True
+,,,2026-03-06,베이스 메이크업,,,P3T1260032501,,,,Water Fresh Blush_2,Water Fresh Blush_2,"Ruay Muen San Larn Co., Ltd.",MEU,,,,,,,,,,,,,Fay,,,,Blusher(OthersEmulsion),,True
+,,,2026-03-06,베이스 메이크업,,,P3T1260032401,,,,Water Fresh Blush_1,Water Fresh Blush_1,"Ruay Muen San Larn Co., Ltd.",MEU,,,,,,,,,,,,,Fay,,,,Blusher(OthersEmulsion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260033501,,,,TONEPOP CLOUDY POP LIP VELVET-8,TONEPOP CLOUDY POP LIP VELVET-8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260033401,,,,TONEPOP CLOUDY POP LIP VELVET-7,TONEPOP CLOUDY POP LIP VELVET-7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260033301,,,,TONEPOP CLOUDY POP LIP VELVET-6,TONEPOP CLOUDY POP LIP VELVET-6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260033201,,,,TONEPOP CLOUDY POP LIP VELVET-5,TONEPOP CLOUDY POP LIP VELVET-5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260033101,,,,TONEPOP CLOUDY POP LIP VELVET-4,TONEPOP CLOUDY POP LIP VELVET-4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260033001,,,,TONEPOP CLOUDY POP LIP VELVET-3,TONEPOP CLOUDY POP LIP VELVET-3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260032901,,,,TONEPOP CLOUDY POP LIP VELVET-2,TONEPOP CLOUDY POP LIP VELVET-2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260032801,,,,TONEPOP CLOUDY POP LIP VELVET-1,TONEPOP CLOUDY POP LIP VELVET-1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260035401,,,,n.r.b Lip Velvet_8,n.r.b Lip Velvet_8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260035301,,,,n.r.b Lip Velvet_7,n.r.b Lip Velvet_7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260035201,,,,n.r.b Lip Velvet_6,n.r.b Lip Velvet_6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260035101,,,,n.r.b Lip Velvet_5,n.r.b Lip Velvet_5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260035001,,,,n.r.b Lip Velvet_4,n.r.b Lip Velvet_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260034901,,,,n.r.b Lip Velvet_3,n.r.b Lip Velvet_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260034801,,,,n.r.b Lip Velvet_2,n.r.b Lip Velvet_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260034701,,,,n.r.b Lip Velvet_1,n.r.b Lip Velvet_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260035701,,,,Lip Pump_3,Lip Pump_3,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Lipstick,,True
+,,,2026-03-06,립 메이크업,,,P3T1260035601,,,,Lip Pump_2,Lip Pump_2,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Lipstick,,True
+,,,2026-03-06,립 메이크업,,,P3T1260035501,,,,Lip Pump_1,Lip Pump_1,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Lipstick,,True
+,,,2026-03-06,립 메이크업,,,P3T1260036501,,,,n.r.b PDRN GLOW LIP TINT_8,n.r.b PDRN GLOW LIP TINT_8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260036401,,,,n.r.b PDRN GLOW LIP TINT_7,n.r.b PDRN GLOW LIP TINT_7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260036301,,,,n.r.b PDRN GLOW LIP TINT_6,n.r.b PDRN GLOW LIP TINT_6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260036201,,,,n.r.b PDRN GLOW LIP TINT_5,n.r.b PDRN GLOW LIP TINT_5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260036101,,,,n.r.b PDRN GLOW LIP TINT_4,n.r.b PDRN GLOW LIP TINT_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260036001,,,,n.r.b PDRN GLOW LIP TINT_3,n.r.b PDRN GLOW LIP TINT_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260035901,,,,n.r.b PDRN GLOW LIP TINT_2,n.r.b PDRN GLOW LIP TINT_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260035801,,,,n.r.b PDRN GLOW LIP TINT_1,n.r.b PDRN GLOW LIP TINT_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260037101,,,,Lip gloss SPF50+PA++++_4,Lip gloss SPF50+PA++++_4,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260037001,,,,Lip gloss SPF50+PA++++_3,Lip gloss SPF50+PA++++_3,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260036901,,,,Lip gloss SPF50+PA++++_2,Lip gloss SPF50+PA++++_2,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipTint(Dispersion),,True
+,,,2026-03-06,립 메이크업,,,P3T1260036801,,,,Lip glossSPF50+PA++++_1,Lip glossSPF50+PA++++_1,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipTint(Dispersion),,True
+,,,2026-03-06,베이스 메이크업,,,P3T1260038201,,,,Everpink Watery balm Balancing Primer _1,Everpink Watery balm Balancing Primer _1,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Belle,,,,Primer,,True
+,,,2026-03-09,립 메이크업,,,P3T1260033801,,,,Oriental princess Lip pH changing # Pink,Oriental princess Lip pH changing # Pink,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,LipGlossOthers,,True
+,,,2026-03-09,립 메이크업,,,P3T1260033701,,,,Oriental princess Lip pH changing # Coral,Oriental princess Lip pH changing # Coral,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,LipGlossOthers,,True
+,,,2026-03-09,립 메이크업,,,P3T1260033601,,,,Oriental princess Lip pH changing # Blue,Oriental princess Lip pH changing # Blue,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,LipGlossOthers,,True
+,,,2026-03-09,립 메이크업,,,P3T1260034601,,,,n.r.b Lip & Cheek-8,n.r.b Lip & Cheek-8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-09,립 메이크업,,,P3T1260034501,,,,n.r.b Lip & Cheek-7,n.r.b Lip & Cheek-7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-09,립 메이크업,,,P3T1260034401,,,,n.r.b Lip & Cheek-6,n.r.b Lip & Cheek-6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-09,립 메이크업,,,P3T1260034301,,,,n.r.b Lip & Cheek-5,n.r.b Lip & Cheek-5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-09,립 메이크업,,,P3T1260034201,,,,n.r.b Lip & Cheek-4,n.r.b Lip & Cheek-4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-09,립 메이크업,,,P3T1260034101,,,,n.r.b Lip & Cheek-3,n.r.b Lip & Cheek-3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-09,립 메이크업,,,P3T1260034001,,,,n.r.b Lip & Cheek-2,n.r.b Lip & Cheek-2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-09,립 메이크업,,,P3T1260033901,,,,n.r.b Lip & Cheek-1,n.r.b Lip & Cheek-1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipBalm(Jartype),,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260036601,,,,Oriental Princess Pore Eraser Primer Base_1,Oriental Princess Pore Eraser Primer Base_1,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Primer,,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260036701,,,,	Oriental princess Hydro Blur Loose Powder,	Oriental princess Hydro Blur Loose Powder,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,FacePowder,,True
+,,,2026-03-09,선,,P9T12600376,,,,,Watsons Men Bright & Firm Moisturiser Moisturiser SPF50+ PA++++ ,Watsons Men Bright & Firm Moisturiser Moisturiser SPF50+ PA++++ ,A.S. WATSON RETAIL (HK) LIMITED,Watsons,,,,,,,,,,,,,Cherry,,,,SunCream,,True
+,,,2026-03-09,립 메이크업,,,P3T1260038801,,,,Mei linda Film-Coating Glow Tint_6,Mei linda Film-Coating Glow Tint_6,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,LipLiquid,,True
+,,,2026-03-09,립 메이크업,,,P3T1260038701,,,,Mei linda Film-Coating Glow Tint_5,Mei linda Film-Coating Glow Tint_5,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,LipLiquid,,True
+,,,2026-03-09,립 메이크업,,,P3T1260038601,,,,Mei linda Film-Coating Glow Tint_4,Mei linda Film-Coating Glow Tint_4,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,LipLiquid,,True
+,,,2026-03-09,립 메이크업,,,P3T1260038501,,,,Mei linda Film-Coating Glow Tint_3,Mei linda Film-Coating Glow Tint_3,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,LipLiquid,,True
+,,,2026-03-09,립 메이크업,,,P3T1260038401,,,,Mei linda Film-Coating Glow Tint_2,Mei linda Film-Coating Glow Tint_2,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,LipLiquid,,True
+,,,2026-03-09,립 메이크업,,,P3T1260038301,,,,Mei linda Film-Coating Glow Tint_1,Mei linda Film-Coating Glow Tint_1,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,LipLiquid,,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260039501,,,,Jelly Gloss Lasting Concealer_3,Jelly Gloss Lasting Concealer_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Concealer(Emulsion),,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260039401,,,,Jelly Gloss Lasting Concealer_2,Jelly Gloss Lasting Concealer_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Concealer(Emulsion),,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260039301,,,,Jelly Gloss Lasting Concealer_1,Jelly Gloss Lasting Concealer_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Concealer(Emulsion),,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260039201,,,,Skin Perfecting Protective Base Prep_1,Skin Perfecting Protective Base Prep_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Primer,,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260039101,,,,Lifter Plump and Glow Foundation_3,Lifter Plump and Glow Foundation_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation,,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260039001,,,,Lifter Plump and Glow Foundation_2,Lifter Plump and Glow Foundation_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation,,True
+,,,2026-03-09,베이스 메이크업,,,P3T1260038901,,,,Lifter Plump and Glow Foundation_1,Lifter Plump and Glow Foundation_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Foundation,,True
+,,,2026-03-09,선,,P9T12600377,,,,,Watsons Men Bright & Oil Control Moisturiser SPF50+ PA++++,Watsons Men Bright & Oil Control Moisturiser SPF50+ PA++++,A.S. WATSON RETAIL (HK) LIMITED,Watsons,,,,,,,,,,,,,Cherry,,,,SunCream,,True
+,,,2026-03-10,팩/마스크,,P9T12600440,,,,,Hydro Night Wrap Mask,Hydro Night Wrap Mask,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,MaskSheet,,True
+,,,2026-03-24,선,,P9T12600530,,,,,CINDY BLOOM Rosy Glow Filter UV Cream SPF 50+ PA ++++ ,CINDY BLOOM Rosy Glow Filter UV Cream SPF 50+ PA ++++ ,SAIGON COSMETICS CORPORATION,CINDY BLOOM,,,,,,,,,,,,,Julia,,,,SunCream,,True
+,,,2026-03-10,선,,P9T12600397,,,,,Sunscreen OP. 1 SPF50+ PA++++,Sunscreen OP. 1 SPF50+ PA++++,"ALL FOR CERT CO, LTD.",Pearl,,,,,,,,,,,,,Nui,,,,SunCream,,True
+,,,2026-03-10,베이스 메이크업,,,P3T1260044601,,,,Sebum Blurring Cushion SPF 50_1,Sebum Blurring Cushion SPF 50_1,"Srichand United Dispensary Co., Ltd.-Srichand",,,,,,,,,,,,,,Nui,,,,Foundation(Spongetype),,True
+,,,2026-03-10,립 메이크업,,,P3T1260043701,,,,n.r.b PDRN GLOW LIP TINT SPOUT_8,n.r.b PDRN GLOW LIP TINT SPOUT_8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGlossOthers,,True
+,,,2026-03-10,립 메이크업,,,P3T1260043601,,,,n.r.b PDRN GLOW LIP TINT SPOUT_7,n.r.b PDRN GLOW LIP TINT SPOUT_7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGlossOthers,,True
+,,,2026-03-10,립 메이크업,,,P3T1260043501,,,,n.r.b PDRN GLOW LIP TINT SPOUT_6,n.r.b PDRN GLOW LIP TINT SPOUT_6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGlossOthers,,True
+,,,2026-03-10,립 메이크업,,,P3T1260043401,,,,n.r.b PDRN GLOW LIP TINT SPOUT_5,n.r.b PDRN GLOW LIP TINT SPOUT_5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGlossOthers,,True
+,,,2026-03-10,립 메이크업,,,P3T1260043301,,,,n.r.b PDRN GLOW LIP TINT SPOUT_4,n.r.b PDRN GLOW LIP TINT SPOUT_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGlossOthers,,True
+,,,2026-03-10,립 메이크업,,,P3T1260043201,,,,n.r.b PDRN GLOW LIP TINT SPOUT_3,n.r.b PDRN GLOW LIP TINT SPOUT_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGlossOthers,,True
+,,,2026-03-10,립 메이크업,,,P3T1260043101,,,,n.r.b PDRN GLOW LIP TINT SPOUT_2,n.r.b PDRN GLOW LIP TINT SPOUT_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGlossOthers,,True
+,,,2026-03-10,립 메이크업,,,P3T1260043001,,,,n.r.b PDRN GLOW LIP TINT SPOUT_1,n.r.b PDRN GLOW LIP TINT SPOUT_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGlossOthers,,True
+,,,2026-03-10,립 메이크업,,,P3T1260042901,,,,n.r.b Lip Velvet Spout_8,n.r.b Lip Velvet Spout_8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260042801,,,,n.r.b Lip Velvet Spout_7,n.r.b Lip Velvet Spout_7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260042701,,,,n.r.b Lip Velvet Spout_6,n.r.b Lip Velvet Spout_6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260042601,,,,n.r.b Lip Velvet Spout_5,n.r.b Lip Velvet Spout_5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260042501,,,,n.r.b Lip Velvet Spout_4,n.r.b Lip Velvet Spout_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260042401,,,,n.r.b Lip Velvet Spout_3,n.r.b Lip Velvet Spout_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260042301,,,,n.r.b Lip Velvet Spout_2,n.r.b Lip Velvet Spout_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260042201,,,,n.r.b Lip Velvet Spout_1,n.r.b Lip Velvet Spout_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260041201,,,,tonepop Cloudy Pop Lip Velvet Spout_8,tonepop Cloudy Pop Lip Velvet Spout_8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260041101,,,,tonepop Cloudy Pop Lip Velvet Spout_7,tonepop Cloudy Pop Lip Velvet Spout_7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260041001,,,,tonepop Cloudy Pop Lip Velvet Spout_6,tonepop Cloudy Pop Lip Velvet Spout_6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260040901,,,,tonepop Cloudy Pop Lip Velvet Spout_5,tonepop Cloudy Pop Lip Velvet Spout_5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260040801,,,,tonepop Cloudy Pop Lip Velvet Spout_4,tonepop Cloudy Pop Lip Velvet Spout_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260040701,,,,tonepop Cloudy Pop Lip Velvet Spout_3,tonepop Cloudy Pop Lip Velvet Spout_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260040601,,,,tonepop Cloudy Pop Lip Velvet Spout_2,tonepop Cloudy Pop Lip Velvet Spout_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,립 메이크업,,,P3T1260040501,,,,tonepop Cloudy Pop Lip Velvet Spout_1,tonepop Cloudy Pop Lip Velvet Spout_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-03-10,스킨류,,P9T12600439,,,,,PDRN Aqua Lift,PDRN Aqua Lift,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,EssenceOthers,,True
+,,,2026-03-10,선,,P9T12600398,,,,,Sunscreen OP. 2 SPF50+ PA++++,Sunscreen OP. 2 SPF50+ PA++++,"ALL FOR CERT CO, LTD.",Pearl,,,,,,,,,,,,,Nui,,,,SunCream,,True
+,,,2026-03-10,크림류,,P9T12600399,,,,,Moisturizer Night Repair ,Moisturizer Night Repair ,"ALL FOR CERT CO, LTD.",Pearl,,,,,,,,,,,,,Nui,,,,Cream,,True
+,,,2026-03-10,크림류,,P9T12600400,,,,,ODBO Whip Cream Sunscreen SPF50+ PA++++,ODBO Whip Cream Sunscreen SPF50+ PA++++,"Mega Cosmetic (Thailand) Co.,Ltd.",ODBO,,,,,,,,,,,,,Tong,,,,Cream,,True
+,,,2026-03-11,립 메이크업,,,P3T1260042001,,,,TONEPOP JUICY POP LIP SERUM SPOUT_8,TONEPOP JUICY POP LIP SERUM SPOUT_8,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-11,립 메이크업,,,P3T1260041901,,,,TONEPOP JUICY POP LIP SERUM SPOUT_7,TONEPOP JUICY POP LIP SERUM SPOUT_7,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-11,립 메이크업,,,P3T1260041801,,,,TONEPOP JUICY POP LIP SERUM SPOUT_6,TONEPOP JUICY POP LIP SERUM SPOUT_6,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-11,립 메이크업,,,P3T1260041701,,,,TONEPOP JUICY POP LIP SERUM SPOUT_5,TONEPOP JUICY POP LIP SERUM SPOUT_5,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-11,립 메이크업,,,P3T1260041601,,,,TONEPOP JUICY POP LIP SERUM SPOUT_4,TONEPOP JUICY POP LIP SERUM SPOUT_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-11,립 메이크업,,,P3T1260041501,,,,TONEPOP JUICY POP LIP SERUM SPOUT_3,TONEPOP JUICY POP LIP SERUM SPOUT_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-11,립 메이크업,,,P3T1260041401,,,,TONEPOP JUICY POP LIP SERUM SPOUT_2,TONEPOP JUICY POP LIP SERUM SPOUT_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-11,립 메이크업,,,P3T1260041301,,,,TONEPOP JUICY POP LIP SERUM SPOUT_1,TONEPOP JUICY POP LIP SERUM SPOUT_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,LipGloss(Emulsion),,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044304,,,,n.r.b Eye palette #4_4,n.r.b Eye palette #4_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044303,,,,n.r.b Eye palette #4_3,n.r.b Eye palette #4_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044302,,,,n.r.b Eye palette #4_2,n.r.b Eye palette #4_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044301,,,,n.r.b Eye palette #4_1,n.r.b Eye palette #4_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044204,,,,n.r.b Eye palette #3_4,n.r.b Eye palette #3_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044203,,,,n.r.b Eye palette #3_3,n.r.b Eye palette #3_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044202,,,,n.r.b Eye palette #3_2,n.r.b Eye palette #3_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044201,,,,n.r.b Eye palette #3_1,n.r.b Eye palette #3_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044104,,,,n.r.b Eye palette #2_4,n.r.b Eye palette #2_4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044103,,,,n.r.b Eye palette #2_3,n.r.b Eye palette #2_3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044102,,,,n.r.b Eye palette #2_2,n.r.b Eye palette #2_2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260044101,,,,n.r.b Eye palette #2_1,n.r.b Eye palette #2_1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260043804,,,,n.r.b Eye palette #1-4,n.r.b Eye palette #1-4,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260043803,,,,n.r.b Eye palette #1-3,n.r.b Eye palette #1-3,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260043802,,,,n.r.b Eye palette #1-2,n.r.b Eye palette #1-2,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-11,아이 메이크업,,,P3T1260043801,,,,n.r.b Eye palette #1-1,n.r.b Eye palette #1-1,"Central Food Retail Co.,LTD.",TOPS,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-12,베이스 메이크업,,,P3T1260039601,,,,Make-up Setting Multi Magic Sealer _1,Make-up Setting Multi Magic Sealer _1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,MakeupBaseOthers,,True
+,,,2026-03-12,팩/마스크,,P9T12600401,,,,,PDRN P1P Mask Sheet,PDRN P1P Mask Sheet,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,MaskSheet,,True
+,,,2026-03-12,베이스 메이크업,,,P3T1260044701,,,,"Cloud-Fit Foundation (SPF38, PA++)_1","Cloud-Fit Foundation (SPF38, PA++)_1","Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Foundation,,True
+,,,2026-03-12,립 메이크업,,,P3T1260044801,,,,Jelly Touch Lip Cream_1,Jelly Touch Lip Cream_1,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Lipstick,,True
+,,,2026-03-12,립 메이크업,,,P3T1260045001,,,,Brightening Shadow-lighter_1,Brightening Shadow-lighter_1,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,LipTint(Dispersion),,True
+,,,2026-03-12,베이스 메이크업,,,P3T1260045301,,,,Meilinda Magnetic Fit Cushion 02,Meilinda Magnetic Fit Cushion 02,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,Foundation(Spongetype),,True
+,,,2026-03-12,베이스 메이크업,,,P3T1260045201,,,,Meilinda Magnetic Fit Cushion 01,Meilinda Magnetic Fit Cushion 01,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,Foundation(Spongetype),,True
+,,,2026-03-12,팩/마스크,,P9T12600402,,,,,(Clean Beauty) PDRN P1P Mask Sheet,(Clean Beauty) PDRN P1P Mask Sheet,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,MaskSheet,,True
+,,,2026-03-12,스킨류,,P9T12600421,,,,,(Clean Beauty) PDRN P1P Serum Shot,(Clean Beauty) PDRN P1P Serum Shot,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,Booster,,True
+,,,2026-03-12,스킨류,,P9T12600445,,,,,Hydra Essence Mist (Aerosol),Hydra Essence Mist (Aerosol),"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,MistAerosol,,True
+,,,2026-03-12,팩/마스크,,P9T12600403,,,,,Daily Use Extra Moist Mask Sheet,Daily Use Extra Moist Mask Sheet,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,MaskSheet,,True
+,,,2026-03-12,팩/마스크,,P9T12600404,,,,,Brightening Mask Sheet,Brightening Mask Sheet,"NUB NGERN MAI TUN CO., LTD.",KIKI BEAUTY,,,,,,,,,,,,,ChaCha,,,,MaskSheet,,True
+,,,2026-03-12,선,,P9T12600451,,,,,Cicare Care Sunscreen SPF50+ PA++++,Cicare Care Sunscreen SPF50+ PA++++,"ABC Beauty Co.,Ltd",BELLA PREMIUM,,,,,,,,,,,,,Tong,,,,SunCream,,True
+,,,2026-03-13,스킨류,,,,,,,GENTLE HYDRATING BODY LOTION 2,GENTLE HYDRATING BODY LOTION 2,"TIMMARINE CO., LTD.",MUE,,,,,,,,,,,,,Jah,,,,BodyLotion,,True
+,,,2026-03-13,스킨류,,P9T12600456,,,,,B Tatier Whitening Serum,B Tatier Whitening Serum,"WISE BRAVE CO., LTD.",ThaTier,,,,,,,,,,,,,Nui,,,,Essence/Ampoule,,True
+,,,2026-03-13,스킨류,,P9T12600458,,,,,Dermaze LITVITA™ Glow-Toning Serum,Dermaze LITVITA™ Glow-Toning Serum,"Central Food Retail Co.,LTD.",Dermaze,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-13,크림류,,P9T12600460,,,,,Dermaze LIT-BARRIER C™ Moisturizer,Dermaze LIT-BARRIER C™ Moisturizer,"Central Food Retail Co.,LTD.",Dermaze,,,,,,,,,,,,,Noah,,,,Cream,,True
+,,,2026-03-13,클렌징,,P9T12600462,,,,, LIT-BARRIER C™ Cleanser, LIT-BARRIER C™ Cleanser,"Central Food Retail Co.,LTD.",Dermaze,,,,,,,,,,,,,Noah,,,,FoamCleansing,,True
+,,,2026-03-13,스킨류,,,,,,,GENTLE HYDRATING BODY LOTION 1,GENTLE HYDRATING BODY LOTION 1,"TIMMARINE CO., LTD.",MUE,,,,,,,,,,,,,Jah,,,,BodyLotion,,True
+,,,2026-03-13,스킨류,,P9T12600457,,,,,Dermaze LIT-BARRIER C™ Toner Spray,Dermaze LIT-BARRIER C™ Toner Spray,"Central Food Retail Co.,LTD.",Dermaze,,,,,,,,,,,,,Noah,,,,FacialMist,,True
+,,,2026-03-13,선,,P9T12600461,,,,,Dermaze LITVITA™ Shield UV Moisturizer SPF50+ PA++++,Dermaze LITVITA™ Shield UV Moisturizer SPF50+ PA++++,"Central Food Retail Co.,LTD.",Dermaze,,,,,,,,,,,,,Noah,,,,SunCream,,True
+,,,2026-03-13,스킨류,,P9T12600459,,,,,Dermaze PLUMPDRN™ Firming Serum,Dermaze PLUMPDRN™ Firming Serum,"Central Food Retail Co.,LTD.",Dermaze,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-16,선,,P9T12600472,,,,,MISTINE KIDS SUNSCREEN STICK SPF50+ PA++++ ,MISTINE KIDS SUNSCREEN STICK SPF50+ PA++++ ,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Jom,,,,SunLotion,,True
+,,,2026-03-16,스킨류,,P9T12600469,,,,,Wrinkle spot treatment ,Wrinkle spot treatment ,VERITE LABORATOIRE COMPANY LIMITED,VERITE,,,,,,,,,,,,,Spy,,,,EssenceOthers,,True
+,,,2026-03-16,스킨류,,P9T12600473,,,,,NGAMPRING Fresh Mix2ion Serum ,NGAMPRING Fresh Mix2ion Serum ,"NGAMPRING PHUNLAN CO., LTD.",NGAMPRING,,,,,,,,,,,,,Belle,,,,Essence/Ampoule,,True
+,,,2026-03-16,아이 메이크업,,,P3T1260046802,,,,TONEPOP Eye Palette #4_2,TONEPOP Eye Palette #4_2,"Central Food Retail Co.,LTD",Tonepop,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-16,아이 메이크업,,,P3T1260046801,,,,TONEPOP Eye Palette #4_1,TONEPOP Eye Palette #4_1,"Central Food Retail Co.,LTD",Tonepop,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-16,아이 메이크업,,,P3T1260046702,,,,TONEPOP Eye Palette #3_2,TONEPOP Eye Palette #3_2,"Central Food Retail Co.,LTD",Tonepop,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-16,아이 메이크업,,,P3T1260046701,,,,TONEPOP Eye Palette #3_1,TONEPOP Eye Palette #3_1,"Central Food Retail Co.,LTD",Tonepop,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-16,아이 메이크업,,,P3T1260045502,,,,TONEPOP Eye Palette #2_2,TONEPOP Eye Palette #2_2,"Central Food Retail Co.,LTD",Tonepop,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-16,아이 메이크업,,,P3T1260045501,,,,TONEPOP Eye Palette #2_1,TONEPOP Eye Palette #2_1,"Central Food Retail Co.,LTD",Tonepop,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-16,아이 메이크업,,,P3T1260045402,,,,TONEPOP Eye Palette #1_2,TONEPOP Eye Palette #1_2,"Central Food Retail Co.,LTD",Tonepop,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-16,아이 메이크업,,,P3T1260045401,,,,TONEPOP Eye Palette #1_1,TONEPOP Eye Palette #1_1,"Central Food Retail Co.,LTD",Tonepop,,,,,,,,,,,,,Cherry,,,,Eyeshadow,,True
+,,,2026-03-17,크림류,,P9T12600474,,,,,Watsons Men Bright & Firm Moisturiser,Watsons Men Bright & Firm Moisturiser,A.S. WATSON RETAIL (HK) LIMITED,Watsons,,,,,,,,,,,,,Cherry,,,,Cream,,True
+,,,2026-03-17,크림류,,P9T12600475,,,,,Watsons Men Bright & Oil Control Moisturiser,Watsons Men Bright & Oil Control Moisturiser,A.S. WATSON RETAIL (HK) LIMITED,Watsons,,,,,,,,,,,,,Cherry,,,,Cream,,True
+,,,2026-03-18,베이스 메이크업,,,P3T1260048801,,,,Deesay Minimal Liquid Foundation50+ PA++++ _2,Deesay Minimal Liquid Foundation50+ PA++++ _2,"Fimiq Co.,Ltd.",Deesay,,,,,,,,,,,,,Ni,,,,Foundation,,True
+,,,2026-03-18,베이스 메이크업,,,P3T1260048701,,,,Deesay Minimal Liquid Foundation50+ PA++++ _1,Deesay Minimal Liquid Foundation50+ PA++++ _1,"Fimiq Co.,Ltd.",Deesay,,,,,,,,,,,,,Ni,,,,Foundation,,True
+,,,2026-03-18,베이스 메이크업,,,P3T1260048901,,,,Twentywendy Concealer_1,Twentywendy Concealer_1,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,Foundation(Spongetype),,True
+,,,2026-03-18,베이스 메이크업,,,P3T1260049501,,,,Perfect Cheek Blush SPF50+ PA++++_2,Perfect Cheek Blush SPF50+ PA++++_2,"Double Circle Co., Ltd.",deepcare,,,,,,,,,,,,,ChaCha,,,,Blusher(Sticktype),,True
+,,,2026-03-18,베이스 메이크업,,,P3T1260049401,,,,Perfect Cheek Blush SPF50+ PA++++_1,Perfect Cheek Blush SPF50+ PA++++_1,"Double Circle Co., Ltd.",deepcare,,,,,,,,,,,,,ChaCha,,,,Blusher(Sticktype),,True
+,,,2026-03-18,베이스 메이크업,,,P3T1260050001,,,,Skin Blemish Balm Intensive Signature Beige,Skin Blemish Balm Intensive Signature Beige,CMS LAB Inc.,CellFusionC,,,,,,,,,,,,,Yoon,,,,Foundation,,True
+,,,2026-03-18,베이스 메이크업,,,P3T1260049901,,,,Skin Blemish Balm Intensive Natural Light,Skin Blemish Balm Intensive Natural Light,CMS LAB Inc.,CellFusionC,,,,,,,,,,,,,Yoon,,,,Foundation,,True
+,,,2026-03-18,베이스 메이크업,,,P3T1260049801,,,,Skin Blemish Balm Intensive Light,Skin Blemish Balm Intensive Light,CMS LAB Inc.,CellFusionC,,,,,,,,,,,,,Yoon,,,,Foundation,,True
+,,,2026-03-18,선,,P9T12600497,,,,,DARK SPOT TONING SUNSCREEN SPF50 PA++++ ,DARK SPOT TONING SUNSCREEN SPF50 PA++++ ,CMS LAB Inc.,CellFusionC,,,,,,,,,,,,,Yoon,,,,SunCream,,True
+,,,2026-03-18,선,,P9T12600496,,,,,AQUATICA COOLING SUNSCREEN SPF50 PA++++,AQUATICA COOLING SUNSCREEN SPF50 PA++++,CMS LAB Inc.,CellFusionC,,,,,,,,,,,,,Yoon,,,,SunCream,,True
+,,,2026-03-18,스킨류,,P9T12600501,,,,,COLLAGEN PDRN AMPOULE ,COLLAGEN PDRN AMPOULE ,CMS LAB Inc.,CellFusionC,,,,,,,,,,,,,Yoon,,,,Essence/Ampoule,,True
+,,,2026-03-18,크림류,,P9T12600502,,,,,C POST α CICA CALMING DOWN CREAM,C POST α CICA CALMING DOWN CREAM,CMS LAB Inc.,CellFusionC,,,,,,,,,,,,,Yoon,,,,Cream,,True
+,,,2026-03-18,크림류,,P9T12600503,,,,,C POST α COOLING GEL CREAM,C POST α COOLING GEL CREAM,CMS LAB Inc.,CellFusionC,,,,,,,,,,,,,Yoon,,,,Cream,,True
+,,,2026-03-18,스킨류,,P9T12600490,,,,,Perfume Body & Hair Mist #Pistachio_1,Perfume Body & Hair Mist #Pistachio_1,"KONG DEE MEE YER Co., Ltd.",Jöiner,,,,,,,,,,,,,Chacha,,,,BodyMist,,True
+,,,2026-03-18,스킨류,,P9T12600491,,,,,Perfume Body & Hair Mist #Água Mística_2,Perfume Body & Hair Mist #Água Mística_2,"KONG DEE MEE YER Co., Ltd.",Jöiner,,,,,,,,,,,,,Chacha,,,,BodyMist,,True
+,,,2026-03-18,스킨류,,P9T12600492,,,,,Perfume Body & Hair Mist #Infinite Flow_3,Perfume Body & Hair Mist #Infinite Flow_3,"KONG DEE MEE YER Co., Ltd.",Jöiner,,,,,,,,,,,,,Chacha,,,,BodyMist,,True
+,,,2026-03-18,스킨류,,P9T12600493,,,,,Perfume Body & Hair Mist #Sour Cherry_4,Perfume Body & Hair Mist #Sour Cherry_4,"KONG DEE MEE YER Co., Ltd.",Jöiner,,,,,,,,,,,,,Chacha,,,,BodyMist,,True
+,,,2026-03-18,선,,P9T12600504,,,,,MISTINE ULTRA PROTECTION BRIGHTENING&COOLING SUNSCREEN WATER MIST SPF50+ PA++++ ,MISTINE ULTRA PROTECTION BRIGHTENING&COOLING SUNSCREEN WATER MIST SPF50+ PA++++ ,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Oil,,,,SunCream,,True
+,,,2026-03-19,베이스 메이크업,,,P3T1260048001,,,,BWB Glow Cushion_4,BWB Glow Cushion_4,"SUAYCHALADTALOK CO., LTD.",BWB,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-03-19,베이스 메이크업,,,P3T1260047901,,,,BWB Glow Cushion_3,BWB Glow Cushion_3,"SUAYCHALADTALOK CO., LTD.",BWB,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-03-19,베이스 메이크업,,,P3T1260047801,,,,BWB Glow Cushion_2,BWB Glow Cushion_2,"SUAYCHALADTALOK CO., LTD.",BWB,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-03-19,베이스 메이크업,,,P3T1260047701,,,,BWB Glow Cushion_1,BWB Glow Cushion_1,"SUAYCHALADTALOK CO., LTD.",BWB,,,,,,,,,,,,,Belle,,,,Foundation(Spongetype),,True
+,,,2026-03-19,크림류,,P9T12600505,,,,,Ngampring Facial Cream,Ngampring Facial Cream,"NGAMPRING PHUNLAN CO., LTD.",NGAMPRING,,,,,,,,,,,,,Belle,,,,Cream,,True
+,,,2026-03-19,팩/마스크,,P9T12600506,,,,,Ngampring Sleeping mask,Ngampring Sleeping mask,"NGAMPRING PHUNLAN CO., LTD.",NGAMPRING,,,,,,,,,,,,,Belle,,,,Pack/Mask(SleepingPack),,True
+,,,2026-03-19,팩/마스크,,P9T12600507,,,,,Ngampring Brightening sheet mask,Ngampring Brightening sheet mask,"NGAMPRING PHUNLAN CO., LTD.",NGAMPRING,,,,,,,,,,,,,Belle,,,,MaskSheet,,True
+,,,2026-03-19,립 메이크업,,,P3T1260051501,,,,Luster Lip Bomb SPF15 (HYA&Peptide)-6,Luster Lip Bomb SPF15 (HYA&Peptide)-6,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-19,립 메이크업,,,P3T1260051401,,,,Luster Lip Bomb SPF15 (HYA&Peptide)-5,Luster Lip Bomb SPF15 (HYA&Peptide)-5,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-19,립 메이크업,,,P3T1260051301,,,,Luster Lip Bomb SPF15 (HYA&Peptide)-4,Luster Lip Bomb SPF15 (HYA&Peptide)-4,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-19,립 메이크업,,,P3T1260051201,,,,Luster Lip Bomb SPF15 (HYA&Peptide)-3,Luster Lip Bomb SPF15 (HYA&Peptide)-3,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-19,립 메이크업,,,P3T1260051101,,,,Luster Lip Bomb SPF15 (HYA&Peptide)-2,Luster Lip Bomb SPF15 (HYA&Peptide)-2,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-19,립 메이크업,,,P3T1260051001,,,,Luster Lip Bomb SPF15 (HYA&Peptide)-1,Luster Lip Bomb SPF15 (HYA&Peptide)-1,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-23,립 메이크업,,,P3T1260046601,,,,Lasting Color Lip Balm SPF50+ PA++++_2,Lasting Color Lip Balm SPF50+ PA++++_2,"Double Circle Co., Ltd",deepcare,,,,,,,,,,,,,ChaCha,,,,Lipstick,,True
+,,,2026-03-23,립 메이크업,,,P3T1260046501,,,,Lasting Color Lip Balm SPF50+ PA++++_1,Lasting Color Lip Balm SPF50+ PA++++_1,"Double Circle Co., Ltd",deepcare,,,,,,,,,,,,,ChaCha,,,,Lipstick,,True
+,,,2026-03-23,스킨류,,P9T12600516,,,,,Oriental Princess Pure Active 2% Retinol Serum,Oriental Princess Pure Active 2% Retinol Serum,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Essence/Ampoule,,True
+,,,2026-03-23,스킨류,,P9T12600517,,,,,Oriental Princess Pure Active 27% Vitamin C Serum,Oriental Princess Pure Active 27% Vitamin C Serum,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Essence/Ampoule,,True
+,,,2026-03-23,스킨류,,P9T12600518,,,,,Oriental Princess Pure Active 10% Azelaic/Tranexamic Acid Serum (AZA+TXA),Oriental Princess Pure Active 10% Azelaic/Tranexamic Acid Serum (AZA+TXA),"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Essence/Ampoule,,True
+,,,2026-03-23,팩/마스크,,P9T12600519,,,,,PDRN Pore Tightening Hydrogel Mask,PDRN Pore Tightening Hydrogel Mask,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,MaskSheet,,True
+,,,2026-03-23,팩/마스크,,P9T12600520,,,,,PDRN Soothing Hydrogel Mask,PDRN Soothing Hydrogel Mask,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,MaskSheet,,True
+,,,2026-03-23,스킨류,,P9T12600521,,,,,PDRN Acne Spot Gel,PDRN Acne Spot Gel,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Booster,,True
+,,,2026-03-23,스킨류,,P9T12600522,,,,,PDRN Serum,PDRN Serum,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Essence/Ampoule,,True
+,,,2026-03-23,크림류,,P9T12600523,,,,,PDRN Pudding Cream,PDRN Pudding Cream,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Cream,,True
+,,,2026-03-23,스킨류,,P9T12600524,,,,,PDRN Mist,PDRN Mist,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,FacialMist,,True
+,,,2026-03-23,팩/마스크,,P9T12600525,,,,,PDRN Toner Pad,PDRN Toner Pad,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,MaskSheetOthers,,True
+,,,2026-03-24,스킨류,,P9T12600527,,,,,PDRN Serum 30-50ml,PDRN Serum 30-50ml,"BOB TVHS CO., LTD.",SEYOUL,,,,,,,,,,,,,Julia,,,,Essence/Ampoule,,True
+,,,2026-03-24,스킨류,,P9T12600529,,,,,PDRN Spray Serum 50-100ml,PDRN Spray Serum 50-100ml,"BOB TVHS CO., LTD.",SEYOUL,,,,,,,,,,,,,Julia,,,,Toner,,True
+,,,2026-03-24,스킨류,,P9T12600532,,,,,CINDY BLOOM Rosy Rose Luminescent Serum Gel,CINDY BLOOM Rosy Rose Luminescent Serum Gel,SAIGON COSMETICS CORPORATION,CINDY BLOOM,,,,,,,,,,,,,Julia,,,,Essence/Ampoule,,True
+,,,2026-03-24,스킨류,,P9T12600533,,,,,CINDY BLOOM Rose Dewy Instant glow Essence - Dry Skin,CINDY BLOOM Rose Dewy Instant glow Essence - Dry Skin,SAIGON COSMETICS CORPORATION,CINDY BLOOM,,,,,,,,,,,,,Julia,,,,Essence/Ampoule,,True
+,,,2026-03-24,스킨류,,P9T12600534,,,,,CINDY BLOOM Rose Dewy Instant glow Essence - Oily Skin,CINDY BLOOM Rose Dewy Instant glow Essence - Oily Skin,SAIGON COSMETICS CORPORATION,CINDY BLOOM,,,,,,,,,,,,,Julia,,,,Essence/Ampoule,,True
+,,,2026-03-10,크림류,,P9T12600449,,,,,BBMEII Dark Spot Cream 50G,BBMEII Dark Spot Cream 50G,"BEAUNIC CO., LTD.",BBMEII,,,,,,,,,,,,,Julia,,,,Cream,,True
+,,,2026-03-24,크림류,,P9T12600528,,,,,PDRN Cream 50ml,PDRN Cream 50ml,"BOB TVHS CO., LTD.",SEYOUL,,,,,,,,,,,,,Julia,,,,Cream,,True
+,,,2026-03-24,크림류,,P9T12600531,,,,,CINDY BLOOM Rose Dew Overnight Gel Cream ,CINDY BLOOM Rose Dew Overnight Gel Cream ,SAIGON COSMETICS CORPORATION,CINDY BLOOM,,,,,,,,,,,,,Julia,,,,Cream,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054101,,,,OP Bare Glow Filter-Foundation No.04,OP Bare Glow Filter-Foundation No.04,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054001,,,,OP Bare Glow Filter-Foundation No.03,OP Bare Glow Filter-Foundation No.03,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260053901,,,,OP Bare Glow Filter-Foundation No.02,OP Bare Glow Filter-Foundation No.02,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260053801,,,,OP Bare Glow Filter-Foundation No.01,OP Bare Glow Filter-Foundation No.01,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054701,,,,OP Bare Glow Filter - Foundation Powder No.06,OP Bare Glow Filter - Foundation Powder No.06,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054601,,,,OP Bare Glow Filter - Foundation Powder No.05,OP Bare Glow Filter - Foundation Powder No.05,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054501,,,,OP Bare Glow Filter - Foundation Powder No.04,OP Bare Glow Filter - Foundation Powder No.04,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054401,,,,OP Bare Glow Filter - Foundation Powder No.03,OP Bare Glow Filter - Foundation Powder No.03,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054301,,,,OP Bare Glow Filter - Foundation Powder No.02,OP Bare Glow Filter - Foundation Powder No.02,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054201,,,,OP Bare Glow Filter - Foundation Powder No.01,OP Bare Glow Filter - Foundation Powder No.01,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055101,,,,OP Sun Protection - Foundation No.04,OP Sun Protection - Foundation No.04,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055001,,,,OP Sun Protection - Foundation No.03,OP Sun Protection - Foundation No.03,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054901,,,,OP Sun Protection - Foundation No.02,OP Sun Protection - Foundation No.02,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260054801,,,,OP Sun Protection - Foundation No.01,OP Sun Protection - Foundation No.01,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055701,,,,OP Sun Protection - Foundation Powder No.06,OP Sun Protection - Foundation Powder No.06,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055601,,,,OP Sun Protection - Foundation Powder No.05,OP Sun Protection - Foundation Powder No.05,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055501,,,,OP Sun Protection - Foundation Powder No.04,OP Sun Protection - Foundation Powder No.04,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055401,,,,OP Sun Protection - Foundation Powder No.03,OP Sun Protection - Foundation Powder No.03,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055301,,,,OP Sun Protection - Foundation Powder No.02,OP Sun Protection - Foundation Powder No.02,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055201,,,,OP Sun Protection - Foundation Powder No.01,OP Sun Protection - Foundation Powder No.01,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260056101,,,,OP Perfect Cover - Foundation No.04,OP Perfect Cover - Foundation No.04,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260056001,,,,OP Perfect Cover - Foundation No.03,OP Perfect Cover - Foundation No.03,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055901,,,,OP Perfect Cover - Foundation No.02,OP Perfect Cover - Foundation No.02,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260055801,,,,OP Perfect Cover - Foundation No.01,OP Perfect Cover - Foundation No.01,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,Foundation,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260056701,,,,OP Perfect Cover - Foundation Powder No.06,OP Perfect Cover - Foundation Powder No.06,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260056601,,,,OP Perfect Cover - Foundation Powder No.05,OP Perfect Cover - Foundation Powder No.05,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260056501,,,,OP Perfect Cover - Foundation Powder No.04,OP Perfect Cover - Foundation Powder No.04,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260056401,,,,OP Perfect Cover - Foundation Powder No.03,OP Perfect Cover - Foundation Powder No.03,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260056301,,,,OP Perfect Cover - Foundation Powder No.02,OP Perfect Cover - Foundation Powder No.02,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260056201,,,,OP Perfect Cover - Foundation Powder No.01,OP Perfect Cover - Foundation Powder No.01,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-03-25,립 메이크업,,,P3T1260058701,,,,Glittery Soft Blur Velvet Lipstick_7,Glittery Soft Blur Velvet Lipstick_7,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-25,립 메이크업,,,P3T1260058601,,,,Glittery Soft Blur Velvet Lipstick_6,Glittery Soft Blur Velvet Lipstick_6,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-25,립 메이크업,,,P3T1260058501,,,,Glittery Soft Blur Velvet Lipstick_5,Glittery Soft Blur Velvet Lipstick_5,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-25,립 메이크업,,,P3T1260058401,,,,Glittery Soft Blur Velvet Lipstick_4,Glittery Soft Blur Velvet Lipstick_4,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-25,립 메이크업,,,P3T1260058301,,,,Glittery Soft Blur Velvet Lipstick_3,Glittery Soft Blur Velvet Lipstick_3,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-25,립 메이크업,,,P3T1260058201,,,,Glittery Soft Blur Velvet Lipstick_2,Glittery Soft Blur Velvet Lipstick_2,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-25,립 메이크업,,,P3T1260058101,,,,Glittery Soft Blur Velvet Lipstick_1,Glittery Soft Blur Velvet Lipstick_1,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-03-25,립 메이크업,,,P3T1260060411,,,,2P Monster lip #Orange_1,2P Monster lip #Orange_1,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,Lipstick,,True
+,,,2026-03-25,립 메이크업,,,P3T1260060412,,,,2P Monster lip #Pink_1,2P Monster lip #Pink_1,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,Lipstick,,True
+,,,2026-03-25,베이스 메이크업,,,P3T1260059101,,,,Skin Weightless Powder SPF50 PA++++_1,Skin Weightless Powder SPF50 PA++++_1,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,PowderPact,,True
+,,,2026-03-25,립 메이크업,,,P3T1260060414,,,,2P Velvet Lip _1,2P Velvet Lip _1,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,Lipstick,,True
+,,,2026-03-25,선,,P9T12600594,,,,,Velvet Hybrid Sunscreen SPF50+ PA++++,Velvet Hybrid Sunscreen SPF50+ PA++++,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,SunCream,,True
+,,,2026-03-26,팩/마스크,,P9T12600509,,,,,Phyto Camellia PDRN Bright Toner Pad,Phyto Camellia PDRN Bright Toner Pad,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,MaskSheetOthers,,True
+,,,2026-03-26,클렌징,,,,,,,Cleansing Water ,Cleansing Water ,SAIGON COSMETICS CORPORATION,CINDY BLOOM,,,,,,,,,,,,,Julia,,,,CleansingWater,,True
+,,,2026-03-26,클렌징,,,,,,,Cleansing Water ,Cleansing Water ,"BEAUNIC CO., LTD.",BBMEII,,,,,,,,,,,,,Julia,,,,CleansingWater,,True
+,,,2026-03-26,립 메이크업,,,P3T1260058001,,,,Lip glossSPF50+PA++++_1_11,Lip glossSPF50+PA++++_1_11,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipGlossOthers,,True
+,,,2026-03-26,립 메이크업,,,P3T1260057901,,,,Lip glossSPF50+PA++++_1_10,Lip glossSPF50+PA++++_1_10,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipGlossOthers,,True
+,,,2026-03-26,립 메이크업,,,P3T1260057801,,,,Lip glossSPF50+PA++++_1_9,Lip glossSPF50+PA++++_1_9,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipGlossOthers,,True
+,,,2026-03-26,립 메이크업,,,P3T1260057701,,,,Lip glossSPF50+PA++++_1_8,Lip glossSPF50+PA++++_1_8,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipGlossOthers,,True
+,,,2026-03-26,립 메이크업,,,P3T1260057601,,,,Lip glossSPF50+PA++++_1_7,Lip glossSPF50+PA++++_1_7,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipGlossOthers,,True
+,,,2026-03-26,립 메이크업,,,P3T1260057501,,,,Lip glossSPF50+PA++++_1_6,Lip glossSPF50+PA++++_1_6,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipGlossOthers,,True
+,,,2026-03-26,립 메이크업,,,P3T1260057401,,,,Lip glossSPF50+PA++++_1_5,Lip glossSPF50+PA++++_1_5,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipGlossOthers,,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260060001,,,,Pore Blinded Skin Cushion SPF50 PA++++_6,Pore Blinded Skin Cushion SPF50 PA++++_6,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260059901,,,,Pore Blinded Skin Cushion SPF50 PA++++_5,Pore Blinded Skin Cushion SPF50 PA++++_5,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260059801,,,,Pore Blinded Skin Cushion SPF50 PA++++_4,Pore Blinded Skin Cushion SPF50 PA++++_4,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260059701,,,,Pore Blinded Skin Cushion SPF50 PA++++_3,Pore Blinded Skin Cushion SPF50 PA++++_3,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260059601,,,,Pore Blinded Skin Cushion SPF50 PA++++_2,Pore Blinded Skin Cushion SPF50 PA++++_2,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260059501,,,,Pore Blinded Skin Cushion SPF50 PA++++_1,Pore Blinded Skin Cushion SPF50 PA++++_1,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Foundation(Spongetype),,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260060401,,,,BELLA TINTED FOUNDATION SPF40_1,BELLA TINTED FOUNDATION SPF40_1,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Foundation,,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260060301,,,,BELLA TINTED FOUNDATION SPF40_2,BELLA TINTED FOUNDATION SPF40_2,"ABC Beauty Co.,Ltd",BELLA,,,,,,,,,,,,,Tong,,,,Foundation,,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260060201,,,,HH CC CREAM SPF40_1,HH CC CREAM SPF40_1,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,CCCream,,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260060101,,,,HH CC CREAM SPF40_2,HH CC CREAM SPF40_2,"ABC Beauty Co.,Ltd.",Hearty Heart,,,,,,,,,,,,,Tong,,,,CCCream,,True
+,,,2026-03-26,베이스 메이크업,,,P3T1260060501,,,,Deesay Minimal Liquid Foundation 50+ PA++++ 3,Deesay Minimal Liquid Foundation 50+ PA++++ 3,"Fimiq Co.,Ltd.",Deesay,,,,,,,,,,,,,Ni,,,,Foundation,,True
+,,,2026-03-30,클렌징,,P9T12600536,,,,, pH Balance Cleansing Gel, pH Balance Cleansing Gel,SAIGON COSMETICS CORPORATION,CINDY BLOOM,,,,,,,,,,,,,Julia,,,,FoamCleansing,,True
+,,,2026-03-30,클렌징,,P9T12600620,,,,,CORE-BARRIER Facial wash,CORE-BARRIER Facial wash,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,FoamCleansing,,True
+,,,2026-03-30,스킨류,,P9T12600621,,,,,CORE-BARRIER Body Lotion,CORE-BARRIER Body Lotion,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-03-30,클렌징,,P9T12600627,,,,,TIME-BARRIER Facial wash,TIME-BARRIER Facial wash,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,FoamCleansing,,True
+,,,2026-03-30,스킨류,,P9T12600628,,,,,TIME-BARRIER Body Lotion,TIME-BARRIER Body Lotion,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-03-30,클렌징,,P9T12600634,,,,,TONE-BARRIER Facial wash,TONE-BARRIER Facial wash,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,FoamCleansing,,True
+,,,2026-03-30,스킨류,,P9T12600635,,,,,TONE-BARRIER Body Lotion,TONE-BARRIER Body Lotion,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-03-30,베이스 메이크업,,,P3T1260061101,,,,Mille CICATIDE Non-Silicone Primer SPF50+ PA++++ (Tone-up)_1,Mille CICATIDE Non-Silicone Primer SPF50+ PA++++ (Tone-up)_1,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,Primer,,True
+,,,2026-03-30,베이스 메이크업,,,P3T1260061001,,,,Mille CICATIDE Non-Silicone Primer SPF50+ PA++++ (Non-tone-up)_1,Mille CICATIDE Non-Silicone Primer SPF50+ PA++++ (Non-tone-up)_1,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,Primer,,True
+,,,2026-03-30,베이스 메이크업,,,P3T1260060901,,,,ZADI PORCELAIN PINK PRIMER _1,ZADI PORCELAIN PINK PRIMER _1,"GENEROUS ZENITH CO., LTD.",ZADI&JO,,,,,,,,,,,,,Belle,,,,Primer,,True
+,,,2026-03-30,베이스 메이크업,,,P3T1260060601,,,,SISTAR MEGIC PRIMER_1,SISTAR MEGIC PRIMER_1,"BEST AND BILLION BEAUTY CO., LTD.",SISTAR,,,,,,,,,,,,,Belle,,,,Primer,,True
+,,,2026-03-30,립 메이크업,,,P3T1260061401,,,,ZADI AND JO LIP BALM_3,ZADI AND JO LIP BALM_3,"GENEROUS ZENITH CO., LTD.",ZADI&JO,,,,,,,,,,,,,Belle,,,,LipGlossOthers,,True
+,,,2026-03-30,립 메이크업,,,P3T1260061301,,,,ZADI AND JO LIP BALM_2,ZADI AND JO LIP BALM_2,"GENEROUS ZENITH CO., LTD.",ZADI&JO,,,,,,,,,,,,,Belle,,,,LipGlossOthers,,True
+,,,2026-03-30,립 메이크업,,,P3T1260061201,,,,ZADI AND JO LIP BALM_1,ZADI AND JO LIP BALM_1,"GENEROUS ZENITH CO., LTD.",ZADI&JO,,,,,,,,,,,,,Belle,,,,LipGlossOthers,,True
+,,,2026-03-30,립 메이크업,,,P3T1260064601,,,,Water Glossy lip tint_1,Water Glossy lip tint_1,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-03-30,선,,P9T12600607,,,,,Mille Face Tone-up Sunscreen SPF50+ PA++++ (Pink Shade),Mille Face Tone-up Sunscreen SPF50+ PA++++ (Pink Shade),"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,SunCream,,True
+,,,2026-03-30,선,,P9T12600608,,,,,Mille Face Tone-up Sunscreen SPF50+ PA++++ (Blue Shade),Mille Face Tone-up Sunscreen SPF50+ PA++++ (Blue Shade),"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,SunCream,,True
+,,,2026-03-30,스킨류,,P9T12600615,,,,,D.Barrier CORE-BARRIER Essence,D.Barrier CORE-BARRIER Essence,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-30,스킨류,,P9T12600616,,,,,D.Barrier CORE-BARRIER Serum,D.Barrier CORE-BARRIER Serum,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-30,크림류,,P9T12600617,,,,,D.Barrier CORE-BARRIER Cream,D.Barrier CORE-BARRIER Cream,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Cream,,True
+,,,2026-03-30,팩/마스크,,P9T12600618,,,,,D.Barrier CORE-BARRIER Sheet Mask,D.Barrier CORE-BARRIER Sheet Mask,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,MaskSheet,,True
+,,,2026-03-30,선,,P9T12600619,,,,,D.Barrier CORE-BARRIER Facial Sunscreen,D.Barrier CORE-BARRIER Facial Sunscreen,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,SunLotion,,True
+,,,2026-03-30,스킨류,,P9T12600622,,,,,D.Barrier TIME-BARREIR Essence,D.Barrier TIME-BARREIR Essence,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-30,스킨류,,P9T12600623,,,,,D.Barrier TIME-BARREIR Serum,D.Barrier TIME-BARREIR Serum,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-30,크림류,,P9T12600624,,,,,D.Barrier TIME-BARREIR Cream,D.Barrier TIME-BARREIR Cream,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Cream,,True
+,,,2026-03-30,팩/마스크,,P9T12600625,,,,,D.Barrier TIME-BARREIR Sheet Mask,D.Barrier TIME-BARREIR Sheet Mask,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,MaskSheet,,True
+,,,2026-03-30,선,,P9T12600626,,,,,D.Barrier TIME-BARREIR Facial Sunscreen,D.Barrier TIME-BARREIR Facial Sunscreen,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,SunLotion,,True
+,,,2026-03-30,스킨류,,P9T12600629,,,,,D.Barrier TONE-BARRIER Essence,D.Barrier TONE-BARRIER Essence,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-30,스킨류,,P9T12600630,,,,,D.Barrier TONE-BARRIER Serum,D.Barrier TONE-BARRIER Serum,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-30,크림류,,P9T12600631,,,,,D.Barrier TONE-BARRIER Cream,D.Barrier TONE-BARRIER Cream,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Cream,,True
+,,,2026-03-30,팩/마스크,,P9T12600632,,,,,D.Barrier TONE-BARRIER Sheet Mask,D.Barrier TONE-BARRIER Sheet Mask,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,MaskSheet,,True
+,,,2026-03-30,선,,P9T12600633,,,,,D.Barrier TONE-BARRIER Facial Sunscreen,D.Barrier TONE-BARRIER Facial Sunscreen,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,SunLotion,,True
+,,,2026-03-30,스킨류,,P9T12600636,,,,,D.Barrier HYDRO-BARRIER Essence,D.Barrier HYDRO-BARRIER Essence,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-30,스킨류,,P9T12600637,,,,,D.Barrier HYDRO-BARRIER Serum,D.Barrier HYDRO-BARRIER Serum,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Essence/Ampoule,,True
+,,,2026-03-30,크림류,,P9T12600638,,,,,D.Barrier HYDRO-BARRIER Cream,D.Barrier HYDRO-BARRIER Cream,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,Cream,,True
+,,,2026-03-30,팩/마스크,,P9T12600639,,,,,D.Barrier HYDRO-BARRIER Sheet Mask,D.Barrier HYDRO-BARRIER Sheet Mask,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,MaskSheet,,True
+,,,2026-03-30,선,,P9T12600640,,,,,D.Barrier HYDRO-BARRIER Facial Sunscreen,D.Barrier HYDRO-BARRIER Facial Sunscreen,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,SunLotion,,True
+,,,2026-03-30,크림류,,P9T12600647,,,,,Under-eye serum,Under-eye serum,HONASA CONSUMER PRIVATE LIMITED,MAMAEARTH,,,,,,,,,,,,,Spy,,,,Cream,,True
+,,,2026-03-30,스킨류,,P9T12600648,,,,,2P Original  Brightening Serum ,2P Original  Brightening Serum ,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,Essence/Ampoule,,True
+,,,2026-03-30,스킨류,,P9T12600649,,,,,2P Original  Pore Tightening Serum,2P Original  Pore Tightening Serum,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,Essence/Ampoule,,True
+,,,2026-03-30,스킨류,,P9T12600650,,,,,2P Original Microbiome Balance Serum,2P Original Microbiome Balance Serum,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,Essence/Ampoule,,True
+,,,2026-03-31,클렌징,,P9T12600641,,,,,HYDRO-BARRIER Facial wash,HYDRO-BARRIER Facial wash,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,FoamCleansing,,True
+,,,2026-03-31,스킨류,,P9T12600642,,,,,HYDRO-BARRIER Body Lotion,HYDRO-BARRIER Body Lotion,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-03-31,스킨류,,P9T12600643,,,,,CICA-BARRIER Lotion,CICA-BARRIER Lotion,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-03-31,스킨류,,P9T12600644,,,,,COLLAGEN-BARRIER Lotion,COLLAGEN-BARRIER Lotion,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-03-31,스킨류,,P9T12600645,,,,,RETINOL-BARRIER Lotion,RETINOL-BARRIER Lotion,"Central Food Retail Co.,LTD.",D.Barrier,,,,,,,,,,,,,Noah,,,,BodyLotion,,True
+,,,2026-03-31,립 메이크업,,,P3T1260065801,,,,Balm to Serum Lip Treatment - Lemon & Almond,Balm to Serum Lip Treatment - Lemon & Almond,"PAIRNICCLE CO., LTD.",STS,,,,,,,,,,,,,Belle,,,,Lipstick,,True
+,,,2026-03-31,립 메이크업,,,P3T1260065701,,,,Balm to Serum Lip Treatment - MATCHA & AVOCADO,Balm to Serum Lip Treatment - MATCHA & AVOCADO,"PAIRNICCLE CO., LTD.",STS,,,,,,,,,,,,,Belle,,,,Lipstick,,True
+,,,2026-03-31,립 메이크업,,,P3T1260065601,,,,Balm to Serum Lip Treatment - Watermelon and Berry,Balm to Serum Lip Treatment - Watermelon and Berry,"PAIRNICCLE CO., LTD.",STS,,,,,,,,,,,,,Belle,,,,Lipstick,,True
+,,,2026-03-31,팩/마스크,,P9T12600651,,,,,Dermaze LIT-BARRIER C™ Calming Pad,Dermaze LIT-BARRIER C™ Calming Pad,"Central Food Retail Co.,LTD.",Dermaze,,,,,,,,,,,,,Noah,,,,MaskSheetOthers,,True
+,,,2026-03-31,팩/마스크,,P9T12600652,,,,,Dermaze PLUMPDRN™ Firming Pad,Dermaze PLUMPDRN™ Firming Pad,"Central Food Retail Co.,LTD.",Dermaze,,,,,,,,,,,,,Noah,,,,MaskSheetOthers,,True
+,,,2026-03-31,크림류,,P9T12600653,,,,,Gluta Glow Gel Cream,Gluta Glow Gel Cream,"ABC Beauty Co.,Ltd",BELLA PREMIUM,,,,,,,,,,,,,Tong,,,,Cream,,True
+,,,2026-03-31,크림류,,P9T12600659,,,,,Moisturizing Gel Cream,Moisturizing Gel Cream,"F.T. BEAUTY AND WELLNESS CO.,LTD.",Herbalist,,,,,,,,,,,,,May,,,,Cream,,True
+,,,2026-04-01,스킨류,,P9T12600666,,,,,Brightening Face Toner,Brightening Face Toner,Panchate 2549 Limited Partnership.,Acqua Labo,,,,,,,,,,,,,Chacha,,,,Toner,,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260067301,,,,Signature Flush Blush Tint_3,Signature Flush Blush Tint_3,"NUB NGERN MAI TUN CO., LTD.",KULT,,,,,,,,,,,,,Chacha,,,,Blusher(Sticktype),,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260067201,,,,Signature Flush Blush Tint_2,Signature Flush Blush Tint_2,"NUB NGERN MAI TUN CO., LTD.",KULT,,,,,,,,,,,,,Chacha,,,,Blusher(Sticktype),,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260067101,,,,Signature Flush Blush Tint_1,Signature Flush Blush Tint_1,"NUB NGERN MAI TUN CO., LTD.",KULT,,,,,,,,,,,,,Chacha,,,,Blusher(Sticktype),,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260067001,,,,Filterless Skin Tint_3,Filterless Skin Tint_3,"NUB NGERN MAI TUN CO., LTD.",KULT,,,,,,,,,,,,,Chacha,,,,Foundation(Sticktype),,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260066901,,,,Filterless Skin Tint_2,Filterless Skin Tint_2,"NUB NGERN MAI TUN CO., LTD.",KULT,,,,,,,,,,,,,Chacha,,,,Foundation(Sticktype),,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260066801,,,,Filterless Skin Tint_1,Filterless Skin Tint_1,"NUB NGERN MAI TUN CO., LTD.",KULT,,,,,,,,,,,,,Chacha,,,,Foundation(Sticktype),,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260066201,,,,Cho Spa Glowing Tone up Base - Purple,Cho Spa Glowing Tone up Base - Purple,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,MakeupBase,,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260066101,,,,Cho Spa Glowing Tone up Base - Beige,Cho Spa Glowing Tone up Base - Beige,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,MakeupBase,,True
+,,,2026-04-01,베이스 메이크업,,,P3T1260066001,,,,Cho Spa Glowing Tone up Base - Pink,Cho Spa Glowing Tone up Base - Pink,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,MakeupBase,,True
+,,,2026-04-02,클렌징,,P9T12600654,,,,,Moleculogy Disney Micellar Cleansing Pad,Moleculogy Disney Micellar Cleansing Pad,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,CleansingTissue,,True
+,,,2026-04-02,클렌징,,P9T12600655,,,,,Moleculogy Disney Milk Cleansing Pad,Moleculogy Disney Milk Cleansing Pad,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,CleansingTissue,,True
+,,,2026-04-02,립 메이크업,,,P3T1260066701,,,,Lip Treatment_1,Lip Treatment_1,"NUB NGERN MAI TUN CO., LTD.",KULT,,,,,,,,,,,,,Chacha,,,,LipBalm(Sticktype),,True
+,,,2026-04-05,베이스 메이크업,,,P3T1260083001,,,,Cho Solar Pop SPF50+ PA+++ 11_1,Cho Solar Pop SPF50+ PA+++ 11_1,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Blusher(OthersEmulsion),,True
+,,,2026-04-06,스킨류,,P9T12600677,,,,,Cool Fixer,Cool Fixer,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FacialMist,,True
+,,,2026-04-06,스킨류,,P9T12600678,,,,,All Day Face Prep Fixx,All Day Face Prep Fixx,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,FacialMist,,True
+,,,2026-04-08,스킨류,,P9T12600729,,,,,Cho Bounce Soufflé Skin Booster,Cho Bounce Soufflé Skin Booster,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Booster,,True
+,,,2026-04-06,선,,P9T12600695,,,,,MILLE TONE UP BABY GREEN BASE SPF50+ PA++++,MILLE TONE UP BABY GREEN BASE SPF50+ PA++++,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,SunCream,,True
+,,,2026-04-06,크림류,,,P3T1260069701,,,,ASTATHERA DUAL CHAMBER MASK _Crystal Micro-Pearl Gel,ASTATHERA DUAL CHAMBER MASK _Crystal Micro-Pearl Gel,"JUPT CO., LTD.",ASTATHERA,,,,,,,,,,,,,Belle,,,,Cream,,True
+,,,2026-04-06,크림류,,,P3T1260069702,,,,ASTATHERA DUAL CHAMBER MASK _Radiant Velvet Cream,ASTATHERA DUAL CHAMBER MASK _Radiant Velvet Cream,"JUPT CO., LTD.",ASTATHERA,,,,,,,,,,,,,Belle,,,,Cream,,True
+,,,2026-04-06,크림류,,P9T12600704,,,,,Bounce Souffle Serum,Bounce Souffle Serum,HELLO BRUSHTOO COMPANY LIMITED,SKINTOO,,,,,,,,,,,,,Spy,,,,Cream,,True
+,,,2026-04-06,스킨류,,P9T12600685,,,,,SUPER PINK VITAMIN CAPSULE SERUM,SUPER PINK VITAMIN CAPSULE SERUM,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Essence/Ampoule,,True
+,,,2026-04-06,베이스 메이크업,,,P3T1260066501,,,,Moleculogy cushion  SPF50+ PA++++ _Honey,Moleculogy cushion  SPF50+ PA++++ _Honey,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,Foundation(Spongetype),,True
+,,,2026-04-06,베이스 메이크업,,,P3T1260066401,,,,Moleculogy cushion  SPF50+ PA++++ _Dark Beige,Moleculogy cushion  SPF50+ PA++++ _Dark Beige,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,Foundation(Spongetype),,True
+,,,2026-04-06,베이스 메이크업,,,P3T1260066301,,,,Moleculogy cushion  SPF50+ PA++++ _21N,Moleculogy cushion  SPF50+ PA++++ _21N,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,Foundation(Spongetype),,True
+,,,2026-04-06,베이스 메이크업,,,P3T1260069801,,,,Jovina - Primer stick_1,Jovina - Primer stick_1,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Jay,,,,Primer,,True
+,,,2026-04-06,아이 메이크업,,,P3T2260069401,,,,Mille Natural Mascara_3,Mille Natural Mascara_3,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,Mascara,,True
+,,,2026-04-06,아이 메이크업,,,P3T2260069301,,,,Mille Natural Mascara_2,Mille Natural Mascara_2,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,Mascara,,True
+,,,2026-04-06,아이 메이크업,,,P3T2260069201,,,,Mille Natural Mascara_1,Mille Natural Mascara_1,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,Mascara,,True
+,,,2026-04-06,립 메이크업,,,P3T1260069001,,,,Mille Satin Matte Liquid Lip_3,Mille Satin Matte Liquid Lip_3,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,LipTint(Dispersion),,True
+,,,2026-04-06,립 메이크업,,,P3T1260068901,,,,Mille Satin Matte Liquid Lip_2,Mille Satin Matte Liquid Lip_2,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,LipTint(Dispersion),,True
+,,,2026-04-06,립 메이크업,,,P3T1260068801,,,,Mille Satin Matte Liquid Lip_1,Mille Satin Matte Liquid Lip_1,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,LipTint(Dispersion),,True
+,,,2026-04-06,아이 메이크업,,,P3T1260068601,,,,Eyebrow mascara(Cleared)_1,Eyebrow mascara(Cleared)_1,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Jay,,,,Mascara(Transparent),,True
+,,,2026-04-07,아이 메이크업,,,P3T1260070601,,,,Jovina - Eyelash serum_1,Jovina - Eyelash serum_1,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Jay,,,,Mascara(Transparent),,True
+,,,2026-04-08,선,,P9T12600726,,,,,MOLECULOGY STARTER SUNSCREEN SPF50+ PA++++,MOLECULOGY STARTER SUNSCREEN SPF50+ PA++++,"Brunchtime co.,ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,SunCream,,True
+,,,2026-04-08,스킨류,,P9T12600731,,,,,Pre-Makeup Jelly Mist Serum 100ml,Pre-Makeup Jelly Mist Serum 100ml,"GENA PACIFIC.,JSC",LAMONADE,,,,,,,,,,,,,Julia,,,,FacialMist,,True
+,,,2026-04-08,아이 메이크업,,,P3T2260072501,,,,Upcurl Lash Tint Serum Mascara_2,Upcurl Lash Tint Serum Mascara_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Mascara(Transparent),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260072401,,,,Upcurl Lash Tint Serum Mascara_1,Upcurl Lash Tint Serum Mascara_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Mascara(Transparent),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260072301,,,,All Brow Cara_3,All Brow Cara_3,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Mascara,,True
+,,,2026-04-08,아이 메이크업,,,P3T2260072201,,,,All Brow Cara_2,All Brow Cara_2,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Mascara,,True
+,,,2026-04-08,아이 메이크업,,,P3T2260072101,,,,All Brow Cara_1,All Brow Cara_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Mascara,,True
+,,,2026-04-08,아이 메이크업,,,P3T2260072001,,,,Eyebrow Mascara (Light brown)_2,Eyebrow Mascara (Light brown)_2,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071901,,,,Eyebrow Mascara (Dark brown)_1,Eyebrow Mascara (Dark brown)_1,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071801,,,,Gel Eyeliner(Brown)_2,Gel Eyeliner(Brown)_2,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyeliner (Cream&Gel type),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071701,,,,Gel Eyeliner(Black)_1,Gel Eyeliner(Black)_1,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyeliner (Cream&Gel type),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071601,,,,Liquid eyeliner(Brown)_2,Liquid eyeliner(Brown)_2,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071501,,,,Liquid eyeliner(Black )_1,Liquid eyeliner(Black )_1,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071301,,,,Eyebrow gel(Blonde)_5,Eyebrow gel(Blonde)_5,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071201,,,,Eyebrow gel(Chocolate)_4,Eyebrow gel(Chocolate)_4,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071101,,,,Eyebrow gel(Dark brown)_3,Eyebrow gel(Dark brown)_3,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260071001,,,,Eyebrow gel(Medium brown)_2,Eyebrow gel(Medium brown)_2,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,아이 메이크업,,,P3T2260070901,,,,Eyebrow gel(Soft brown)_1,Eyebrow gel(Soft brown)_1,"GK Beauty Co., Ltd. ",Jovina,,,,,,,,,,,,,Jay,,,,Eyebrow(Mascaratype),,True
+,,,2026-04-08,립 메이크업,,,P3T1260075301,,,,Girlish Creamy Lip Oil_2,Girlish Creamy Lip Oil_2,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipBalm(Sticktype),,True
+,,,2026-04-08,립 메이크업,,,P3T1260075201,,,,Girlish Creamy Lip Oil_3,Girlish Creamy Lip Oil_3,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipBalm(Sticktype),,True
+,,,2026-04-08,립 메이크업,,,P3T1260075001,,,,Mille Soft Cloud Velvet Tinted_3,Mille Soft Cloud Velvet Tinted_3,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260074901,,,,Mille Soft Cloud Velvet Tinted_2,Mille Soft Cloud Velvet Tinted_2,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260074801,,,,Mille Soft Cloud Velvet Tinted_1,Mille Soft Cloud Velvet Tinted_1,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Cherry,,,,LipTint(Dispersion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260074601,,,,Mille Mirror Moist & Shine Tint Lip_3,Mille Mirror Moist & Shine Tint Lip_3,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260074501,,,,Mille Mirror Moist & Shine Tint Lip_2,Mille Mirror Moist & Shine Tint Lip_2,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260074401,,,,Mille Mirror Moist & Shine Tint Lip_1,Mille Mirror Moist & Shine Tint Lip_1,"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260074101,,,,Girlish Stained Lip Oil_3,Girlish Stained Lip Oil_3,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipLiquid,,True
+,,,2026-04-08,립 메이크업,,,P3T1260074001,,,,Girlish Stained Lip Oil_2,Girlish Stained Lip Oil_2,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipLiquid,,True
+,,,2026-04-08,립 메이크업,,,P3T1260073901,,,,Girlish Stained Lip Oil_1,Girlish Stained Lip Oil_1,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipLiquid,,True
+,,,2026-04-08,립 메이크업,,,P3T1260073801,,,,Girlish Water Lip Tint_3,Girlish Water Lip Tint_3,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260073701,,,,Girlish Water Lip Tint_2,Girlish Water Lip Tint_2,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260073601,,,,Girlish Water Lip Tint_1,Girlish Water Lip Tint_1,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260073501,,,,Girlish Stained Lip Emulsion_3,Girlish Stained Lip Emulsion_3,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260073401,,,,Girlish Stained Lip Emulsion_2,Girlish Stained Lip Emulsion_2,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,립 메이크업,,,P3T1260073301,,,,Girlish Stained Lip Emulsion_1,Girlish Stained Lip Emulsion_1,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipTint(Emulsion),,True
+,,,2026-04-08,선,,P9T12600714,,,,,Happy Sunday Sun Max Aqua Sunscreen SPF50+ PA++++,Happy Sunday Sun Max Aqua Sunscreen SPF50+ PA++++,"HAPPY SUNDAY CO.,LTD.",Happy Sunday,,,,,,,,,,,,,Ni,,,,SunLotion,,True
+,,,2026-04-08,선,,P9T12600727,,,,,Happy Sunday Cotton Soft Sun Stick SPF 50+ PA++++,Happy Sunday Cotton Soft Sun Stick SPF 50+ PA++++,"HAPPY SUNDAY CO.,LTD.",Happy Sunday,,,,,,,,,,,,,Ni,,,,SunProduct(OthersSkinCare),,True
+,,,2026-04-08,팩/마스크,,P9T12600728,,,,,Cho PDRN Revitalizing Glow Mask,Cho PDRN Revitalizing Glow Mask,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,MaskSheet,,True
+,,,2026-04-06,스킨류,,P9T12600705,,,,,All-in-One PDRN Serum Complex,All-in-One PDRN Serum Complex,HELLO BRUSHTOO COMPANY LIMITED,SKINTOO,,,,,,,,,,,,,Spy,,,,Essence/Ampoule,,True
+,,,2026-04-08,스킨류,,P9T12600730,,,,,Fleen Beauty Energize Tone Up Serum,Fleen Beauty Energize Tone Up Serum,"INNOFEENA CO., LTD.",Fleen,,,,,,,,,,,,,Ni,,,,Lotion,,True
+,,,2026-04-08,스킨류,,P9T12600732,,,,,Cho Anti-Aging & Firming Serum,Cho Anti-Aging & Firming Serum,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Essence/Ampoule,,True
+,,,2026-04-08,팩/마스크,,P9T12600742,,,,,Cho Over Night  Mask,Cho Over Night  Mask,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Pack/Mask(SleepingPack),,True
+,,,2026-04-08,팩/마스크,,P9T12600707,,,,,Jovina - Eye patch,Jovina - Eye patch,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Jay,,,,EyeMask,,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260076501,,,,Girlish Concealer & Corrector_5,Girlish Concealer & Corrector_5,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Concealer(Emulsion),,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260076401,,,,Girlish Concealer & Corrector_4,Girlish Concealer & Corrector_4,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Concealer(Emulsion),,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260076301,,,,Girlish Concealer & Corrector_3,Girlish Concealer & Corrector_3,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Concealer(Emulsion),,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260076201,,,,Girlish Concealer & Corrector_2,Girlish Concealer & Corrector_2,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Concealer(Emulsion),,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260076101,,,,Girlish Concealer & Corrector_1,Girlish Concealer & Corrector_1,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Concealer(Emulsion),,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260076001,,,,Girlish Skin Tint SPF 25_2,Girlish Skin Tint SPF 25_2,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Foundation,,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260075901,,,,Girlish Skin Tint SPF 25_1,Girlish Skin Tint SPF 25_1,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Foundation,,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260075801,,,,Girlish Creamy Blush_3,Girlish Creamy Blush_3,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Blusher(CreamDispersion),,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260075701,,,,Girlish Creamy Blush_2,Girlish Creamy Blush_2,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Blusher(CreamDispersion),,True
+,,,2026-04-09,베이스 메이크업,,,P3T1260075601,,,,Girlish Creamy Blush_1,Girlish Creamy Blush_1,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,Blusher(CreamDispersion),,True
+,,,2026-04-09,립 메이크업,,,P3T1260075501,,,,Girlish Creamy Lip Oil_1,Girlish Creamy Lip Oil_1,"Central Watson Co.,Ltd.",Watsons,,,,,,,,,,,,,Cherry,,,,LipLiquid,,True
+,,,2026-04-10,립 메이크업,,,P3T1260076901,,,,Zu cosmetic Kiss Muse_1,Zu cosmetic Kiss Muse_1,"ZU INNOVATION CO., LTD.",ZU COSMETIC,,,,,,,,,,,,,Belle,,,,Lipstick,,True
+,,,2026-04-10,스킨류,,P9T12600766,,,,,Hyacube Capsule Serum,Hyacube Capsule Serum,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Essence/Ampoule,,True
+,,,2026-04-17,아이 메이크업,,,P3T2260077601,,,,All in One Perfect Eyebrow_Ash Brown,All in One Perfect Eyebrow_Ash Brown,"Srichand United Dispensary Co., Ltd. ",Srichand,,,,,,,,,,,,,Noah,,,,Eyebrow(Pentype),,True
+,,,2026-04-17,아이 메이크업,,,P3T2260077501,,,,All in One Perfect Eyebrow_Natural Brown,All in One Perfect Eyebrow_Natural Brown,"Srichand United Dispensary Co., Ltd. ",Srichand,,,,,,,,,,,,,Noah,,,,Eyebrow(Pentype),,True
+,,,2026-04-17,아이 메이크업,,,P3T2260077401,,,,All in One Perfect Eyebrow_Dark Brown,All in One Perfect Eyebrow_Dark Brown,"Srichand United Dispensary Co., Ltd. ",Srichand,,,,,,,,,,,,,Noah,,,,Eyebrow(Pentype),,True
+,,,2026-04-17,헤어,,P9T12600768,,,,,Conditioner,Conditioner,MADAME BIOSCIENCE PUBLIC COMPANY LIMITED.,Madame Louise,,,,,,,,,,,,,Belle,,,,HairConditioner,,True
+,,,2026-04-17,헤어,,,,,,,Shampoo,Shampoo,MADAME BIOSCIENCE PUBLIC COMPANY LIMITED.,Madame Louise,,,,,,,,,,,,,Belle,,,,Shampoo,,True
+,,,2026-04-17,클렌징,,,,,,,	Honey Butter Cleansing Balm,	Honey Butter Cleansing Balm,"Beautrium Co.,Ltd.",DERMART,,,,,,,,,,,,,Chacha,,,,CleansingBalm,,True
+,,,2026-04-17,클렌징,,,,,,,Radiant Glow Foam Cleanser,Radiant Glow Foam Cleanser,"WISE BRAVE CO., LTD.",ThaTier,,,,,,,,,,,,,Nui,,,,CleansingGel,,True
+,,,2026-04-17,스킨류,,P9T12600751,,,,,Twentywendy 3-Layer Houttuynia PDRN Mist Skin Prep,Twentywendy 3-Layer Houttuynia PDRN Mist Skin Prep,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,FacialMist,,True
+,,,2026-04-17,선,,P9T12600771,,,,,Sun Max Aqua Sunscreen SPF50+ PA++++,Sun Max Aqua Sunscreen SPF50+ PA++++,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,SunCream,,True
+,,,2026-04-17,스킨류,,P9T12600772,,,,,MONGWISHESE: 2 in 1 Red Mellow Mist ,MONGWISHESE: 2 in 1 Red Mellow Mist ,"MONGWISHES CO., LTD.",MONGWISHESE,,,,,,,,,,,,,Belle,,,,FacialMist,,True
+,,,2026-04-17,크림류,,P9T12600778,,,,,Overnight Skin Recovery Mask,Overnight Skin Recovery Mask,"WISE BRAVE CO., LTD.",ThaTier,,,,,,,,,,,,,Nui,,,,Cream,,True
+,,,2026-04-20,선,,P9T12600780,,,,,Acne X Sunscreen,Acne X Sunscreen,"ABC Beauty Co.,Ltd",Hearty Heart,,,,,,,,,,,,,Tong,,,,SunCream,,True
+,,,2026-04-20,스킨류,,P9T12600781,,,,,JELLY WATER BOMB SERUM,JELLY WATER BOMB SERUM,"Maison Royal Co.,Ltd.",Her Hyness,,,,,,,,,,,,,Fay,,,,Essence/Ampoule,,True
+,,,2026-04-21,립 메이크업,,,P3T1260079001,,,,Feel Good Melt Lip _1,Feel Good Melt Lip _1,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Nui,,,,LipGlossOthers,,True
+,,,2026-04-21,베이스 메이크업,,,P3T1260078902,,,,Twentywendy Highlighter Powder_Glitter,Twentywendy Highlighter Powder_Glitter,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,Pearl Powder,,True
+,,,2026-04-21,베이스 메이크업,,,P3T1260078901,,,,Twentywendy Highlighter Powder_Matt,Twentywendy Highlighter Powder_Matt,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,Pearl Powder,,True
+,,,2026-04-21,립 메이크업,,,P3T1260078501,,,,Twentywendy Over Blur Tint_1,Twentywendy Over Blur Tint_1,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,LipTint(Dispersion),,True
+,,,2026-04-21,아이 메이크업,,,P3T2260079801,,,,Eyeliner Pencil,Eyeliner Pencil,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Ni,,,,Eyeliner(Pentype),,True
+,,,2026-04-21,아이 메이크업,,,P3T2260078401,,,,Eyeliner Ink_1,Eyeliner Ink_1,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Ni,,,,Eyeliner(Liquidtype),,True
+,,,2026-04-21,선,,P9T12600782,,,,,Jovina - Facial Sunscreen,Jovina - Facial Sunscreen,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Jay,,,,SunCream,,True
+,,,2026-04-21,스킨류,,P9T12600786,,,,,Twentywendy Jelly Mist Serum,Twentywendy Jelly Mist Serum,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,FacialMist,,True
+,,,2026-04-21,스킨류,,P9T12600787,,,,,Twentywendy Pink Capsule Mist Serum,Twentywendy Pink Capsule Mist Serum,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,Essence/Ampoule,,True
+,,,2026-04-21,크림류,,P9T12600788,,,,,Watery Balm Moisture,Watery Balm Moisture,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Nui,,,,Cream,,True
+,,,2026-04-22,스킨류,,P9T12600791,,,,,Rose Gold Bounce Souffle Serum,Rose Gold Bounce Souffle Serum,"ROSEGOLD CORP CO., LTD.",ROSE GOLD,,,,,,,,,,,,,Jah,,,,Essence/Ampoule,,True
+,,,2026-04-23,베이스 메이크업,,,P3T1260079701,,,,LaGlace Porcelain Tone Up SPF50+ PA++++_04,LaGlace Porcelain Tone Up SPF50+ PA++++_04,"IDEAL AND MARVELOUS TEN CO., LTD.",LA GLACE,,,,,,,,,,,,,Belle,,,,MakeupBase,,True
+,,,2026-04-23,베이스 메이크업,,,P3T1260079601,,,,LaGlace Porcelain Tone Up SPF50+ PA++++_03,LaGlace Porcelain Tone Up SPF50+ PA++++_03,"IDEAL AND MARVELOUS TEN CO., LTD.",LA GLACE,,,,,,,,,,,,,Belle,,,,MakeupBase,,True
+,,,2026-04-23,베이스 메이크업,,,P3T1260079501,,,,LaGlace Porcelain Tone Up SPF50+ PA++++_02,LaGlace Porcelain Tone Up SPF50+ PA++++_02,"IDEAL AND MARVELOUS TEN CO., LTD.",LA GLACE,,,,,,,,,,,,,Belle,,,,MakeupBase,,True
+,,,2026-04-23,베이스 메이크업,,,P3T1260079401,,,,LaGlace Porcelain Tone Up SPF50+ PA++++_01,LaGlace Porcelain Tone Up SPF50+ PA++++_01,"IDEAL AND MARVELOUS TEN CO., LTD.",LA GLACE,,,,,,,,,,,,,Belle,,,,MakeupBase,,True
+,,,2026-04-23,베이스 메이크업,,,P3T1260079301,,,,LaGlace Porcelain Tone Up SPF50+ PA++++_00,LaGlace Porcelain Tone Up SPF50+ PA++++_00,"IDEAL AND MARVELOUS TEN CO., LTD.",LA GLACE,,,,,,,,,,,,,Belle,,,,MakeupBase,,True
+,,,2026-04-23,아이 메이크업,,,P3T2260079201,,,,Shadow Blend_1,Shadow Blend_1,"NUB NGERN MAI TUN CO., LTD.",KULT,,,,,,,,,,,,,Chacha,,,,Eyeshadow(Bakedtype),,True
+,,,2026-04-24,스킨류,,P9T12600802,,,,,Cirium PDRN Serum 30ml,Cirium PDRN Serum 30ml,LAVA XCOMMERCE COMPANY LIMITED,Cirium,,,,,,,,,,,,,Julia,,,,Essence/Ampoule,,True
+,,,2026-04-24,크림류,,P9T12600803,,,,,Cirium PDRN Cream 50ml,Cirium PDRN Cream 50ml,LAVA XCOMMERCE COMPANY LIMITED,Cirium,,,,,,,,,,,,,Julia,,,,Cream,,True
+,,,2026-04-24,선,,P9T12600804,,,,,Cirium PDRN Sunscream 50ml,Cirium PDRN Sunscream 50ml,LAVA XCOMMERCE COMPANY LIMITED,Cirium,,,,,,,,,,,,,Julia,,,,SunCream,,True
+,,,2026-04-27,헤어,,P9T12600805,,,,,Biotin PDRN Treatment Shampoo,Biotin PDRN Treatment Shampoo,PJSB COMPANY LIMITED,PJSB,,,,,,,,,,,,,Huathuylinh Tran,,,,Shampoo,,True
+,,,2026-04-27,헤어,,P9T12600807,,,,,Biotin PDRN Treatment Conditioner,Biotin PDRN Treatment Conditioner,PJSB COMPANY LIMITED,PJSB,,,,,,,,,,,,,Huathuylinh Tran,,,,HairConditioner,,True
+,,,2026-04-27,클렌징,,P9T12600808,,,,,Soft Whip Cleanser,Soft Whip Cleanser,PJSB COMPANY LIMITED,PJSB,,,,,,,,,,,,,Huathuylinh Tran,,,,FoamCleansing,,True
+,,,2026-04-27,클렌징,,P9T12600809,,,,,Gel Cleanser,Gel Cleanser,PJSB COMPANY LIMITED,PJSB,,,,,,,,,,,,,Huathuylinh Tran,,,,FoamCleansing,,True
+,,,2026-04-28,베이스 메이크업,,,P3T1260081701,,,,Natural Cover Foundation_5,Natural Cover Foundation_5,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Foundation(Sticktype),,True
+,,,2026-04-28,베이스 메이크업,,,P3T1260081601,,,,Natural Cover Foundation_4,Natural Cover Foundation_4,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Foundation(Sticktype),,True
+,,,2026-04-28,베이스 메이크업,,,P3T1260081501,,,,Natural Cover Foundation_3,Natural Cover Foundation_3,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Foundation(Sticktype),,True
+,,,2026-04-28,베이스 메이크업,,,P3T1260081401,,,,Natural Cover Foundation_2,Natural Cover Foundation_2,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Foundation(Sticktype),,True
+,,,2026-04-28,베이스 메이크업,,,P3T1260081301,,,,Natural Cover Foundation_1,Natural Cover Foundation_1,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Foundation(Sticktype),,True
+,,,2026-04-28,베이스 메이크업,,,P3T1260081001,,,,Cloud Blur Primer Powder_1,Cloud Blur Primer Powder_1,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,FacePowderOthers,,True
+,,,2026-04-28,팩/마스크,,P9T12600811,,,,,PDRN Skin Awake Wrapping Mask,PDRN Skin Awake Wrapping Mask,"Sharing Global Co., Ltd.",IPNIDA,,,,,,,,,,,,,Chacha,,,,Pack/Mask(PeelOff),,True
+,,,2026-04-28,스킨류,,P9T12600818,,,,,Retinolagen Ampoule ,Retinolagen Ampoule ,Life with corporation Inc.,P.CALM,,,,,,,,,,,,,Seoeun,,,,Essence/Ampoule,,True
+,,,2026-04-28,크림류,,P9T12600819,,,,,Retinolagen Ampoule Shot Cream ,Retinolagen Ampoule Shot Cream ,Life with corporation Inc.,P.CALM,,,,,,,,,,,,,Seoeun,,,,Cream,,True
+,,,2026-04-28,크림류,,P9T12600820,,,,,Centella Trouble Spot ,Centella Trouble Spot ,Life with corporation Inc.,P.CALM,,,,,,,,,,,,,Seoeun,,,,CreamOthers,,True
+,,,2026-04-28,선,,P9T12600821,,,,,Water Barrier Sun Cream ,Water Barrier Sun Cream ,Life with corporation Inc.,P.CALM,,,,,,,,,,,,,Seoeun,,,,SunCream,,True
+,,,2026-04-28,크림류,,P9T12600822,,,,,eye cream ,eye cream ,"Banyan Tree Gallery (Thailand) Co.,Ltd.",ฺBanyan Tree,,,,,,,,,,,,,Fay,,,,EyeCream,,True
+,,,2026-04-28,스킨류,,P9T12600823,,,,,Face Mist,Face Mist,"Banyan Tree Gallery (Thailand) Co.,Ltd.",ฺBanyan Tree,,,,,,,,,,,,,Fay,,,,FacialMist,,True
+,,,2026-04-28,팩/마스크,,P9T12600825,,,,,Rice sheet mask,Rice sheet mask,"Banyan Tree Gallery (Thailand) Co.,Ltd.",ฺBanyan Tree,,,,,,,,,,,,,Fay,,,,MaskSheet,,True
+,,,2026-04-29,스킨류,,P9T12600826,,,,,Srichand Ceramild B5 Barrier Serum,Srichand Ceramild B5 Barrier Serum,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Essence/Ampoule,,True
+,,,2026-04-29,크림류,,P9T12600827,,,,,Srichand Ceramild B5 Barrier cream,Srichand Ceramild B5 Barrier cream,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Cream,,True
+,,,2026-04-30,크림류,,P9T12600831,,,,,Srichand Skin Moisture Burst Gel Cream Upgrade ,Srichand Skin Moisture Burst Gel Cream Upgrade ,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Cream,,True
+,,,2026-05-05,립 메이크업,,,P3T1260083601,,,,Sistar Lip Gloss_1,Sistar Lip Gloss_1,"BEST AND BILLION BEAUTY CO., LTD.",SISTAR,,,,,,,,,,,,,Belle,,,,LipGloss(Emulsion),,True
+,,,2026-05-05,선,,P9T12600824,,,,,Deesay Daifuku Glowy Soft Skin & Matte Sunscreen High Protection SPF50+ PA++++,Deesay Daifuku Glowy Soft Skin & Matte Sunscreen High Protection SPF50+ PA++++,"Fimiq Co.,Ltd.",Deesay,,,,,,,,,,,,,Ni,,,,SunCream,,True
+,,,2026-05-06,팩/마스크,,P9T12600837,,,,,Collagen Night Wrapping Mask,Collagen Night Wrapping Mask,HONASA CONSUMER PRIVATE LIMITED,MAMAEARTH,,,,,,,,,,,,,Spy,,,,Pack/Mask(PeelOff),,True
+,,,2026-05-06,베이스 메이크업,,,P3T1260084301,,,,Icy-Matte Frost & Fix Cushion _1,Icy-Matte Frost & Fix Cushion _1,NEWN INC.,RIHKA,,,,,,,,,,,,,Spy,,,,Foundation(Spongetype),,True
+,,,2026-05-07,베이스 메이크업,,,P3T1260082901,,,,Cho Solar Pop SPF50+ PA+++ 10_1,Cho Solar Pop SPF50+ PA+++ 10_1,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Blusher(OthersEmulsion),,True
+,,,2026-05-07,크림류,,P9T12600832,,,,,Deesay Brightening Tone up Cream 1,Deesay Brightening Tone up Cream 1,"Fimiq Co.,Ltd.",Deesay,,,,,,,,,,,,,Ni,,,,CreamOthers,,True
+,,,2026-05-07,크림류,,P9T12600833,,,,,Deesay Brightening Tone up Cream 2 ,Deesay Brightening Tone up Cream 2 ,"Fimiq Co.,Ltd.",Deesay,,,,,,,,,,,,,Ni,,,,CreamOthers,,True
+,,,2026-05-07,선,,P9T12600835,,,,,MISTINE AQUA BASE ULTRA PROTECTION CLEAR & MATTE TINTED MEN SUNSCREEN SPF50+ PA++++,MISTINE AQUA BASE ULTRA PROTECTION CLEAR & MATTE TINTED MEN SUNSCREEN SPF50+ PA++++,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Oil,,,,SunLotion,,True
+,,,2026-05-07,스킨류,,P9T12600845,,,,,SRICHAND Skin Moisture Burst Advanced Essence,SRICHAND Skin Moisture Burst Advanced Essence,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Essence/Ampoule,,True
+,,,2026-05-07,스킨류,,P9T12600846,,,,,SRICHAND Skin Moisture Burst Advanced Serum,SRICHAND Skin Moisture Burst Advanced Serum,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Essence/Ampoule,,True
+,,,2026-05-07,스킨류,,P9T12600847,,,,,SRICHAND Skin Moisture Burst Advanced Emulsion,SRICHAND Skin Moisture Burst Advanced Emulsion,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Essence/Ampoule,,True
+,,,2026-05-07,팩/마스크,,P9T12600848,,,,,SRICHAND Skin Moisture Burst Advanced Sheet Mask,SRICHAND Skin Moisture Burst Advanced Sheet Mask,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,MaskSheet,,True
+,,,2026-05-07,팩/마스크,,P9T12600849,,,,,SRICHAND Skin Moisture Burst Advanced Sleeping Mask,SRICHAND Skin Moisture Burst Advanced Sleeping Mask,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Pack/Mask(SleepingPack),,True
+,,,2026-05-07,스킨류,,P9T12600850,,,,,3-in-1 Skin Moisture Burst Facial Mist,3-in-1 Skin Moisture Burst Facial Mist,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,FacialMist,,True
+,,,2026-05-07,선,,P9T12600828,,,,,Wise Brave  Sunscreen SPF50+ PA++++,Wise Brave  Sunscreen SPF50+ PA++++,"WISE BRAVE CO., LTD.",ThaTier,,,,,,,,,,,,,Nui,,,,SunCream,,True
+,,,2026-05-07,선,,P9T12600851,,,,,Milk Suncream SPF50+PA++++,Milk Suncream SPF50+PA++++,"BEAUNESS KOREA CO., LTD.",BEAUNESS,,,,,,,,,,,,,Yoon,,,,SunLotion,,True
+,,,2026-05-07,립 메이크업,,,P3T1260084201,,,,Fleen Beauty Maxi Lucent Lip _5,Fleen Beauty Maxi Lucent Lip _5,"INNOFEENA CO., LTD.",Fleen,,,,,,,,,,,,,Ni,,,,LipGloss(Emulsion),,True
+,,,2026-05-07,립 메이크업,,,P3T1260084101,,,,Fleen Beauty Maxi Lucent Lip _4,Fleen Beauty Maxi Lucent Lip _4,"INNOFEENA CO., LTD.",Fleen,,,,,,,,,,,,,Ni,,,,LipGloss(Emulsion),,True
+,,,2026-05-07,립 메이크업,,,P3T1260084001,,,,Fleen Beauty Maxi Lucent Lip _3,Fleen Beauty Maxi Lucent Lip _3,"INNOFEENA CO., LTD.",Fleen,,,,,,,,,,,,,Ni,,,,LipGloss(Emulsion),,True
+,,,2026-05-07,립 메이크업,,,P3T1260083901,,,,Fleen Beauty Maxi Lucent Lip _2,Fleen Beauty Maxi Lucent Lip _2,"INNOFEENA CO., LTD.",Fleen,,,,,,,,,,,,,Ni,,,,LipGloss(Emulsion),,True
+,,,2026-05-07,립 메이크업,,,P3T1260083801,,,,Fleen Beauty Maxi Lucent Lip _1,Fleen Beauty Maxi Lucent Lip _1,"INNOFEENA CO., LTD.",Fleen,,,,,,,,,,,,,Ni,,,,LipGloss(Emulsion),,True
+,,,2026-05-08,스킨류,,P9T12600852,,,,,Mille All Day Tight Make Up Setting Fixx (TH),Mille All Day Tight Make Up Setting Fixx (TH),"Mille (Thailland) Co.,LTD.",Mille,,,,,,,,,,,,,Noah,,,,FacialMist,,True
+,,,2026-05-11,베이스 메이크업,,,P3T1260085601,,,,BRIGHT UP CONCEALER_4,BRIGHT UP CONCEALER_4,"NONGCHAT INTER GROUP CO., LTD.",CHAT,,,,,,,,,,,,,Tong,,,,Concealer(Dispersion),,True
+,,,2026-05-11,베이스 메이크업,,,P3T1260085501,,,,BRIGHT UP CONCEALER_3,BRIGHT UP CONCEALER_3,"NONGCHAT INTER GROUP CO., LTD.",CHAT,,,,,,,,,,,,,Tong,,,,Concealer(Dispersion),,True
+,,,2026-05-11,베이스 메이크업,,,P3T1260085401,,,,BRIGHT UP CONCEALER_2,BRIGHT UP CONCEALER_2,"NONGCHAT INTER GROUP CO., LTD.",CHAT,,,,,,,,,,,,,Tong,,,,Concealer(Dispersion),,True
+,,,2026-05-11,베이스 메이크업,,,P3T1260085301,,,,BRIGHT UP CONCEALER_1,BRIGHT UP CONCEALER_1,"NONGCHAT INTER GROUP CO., LTD.",CHAT,,,,,,,,,,,,,Tong,,,,Concealer(Dispersion),,True
+,,,2026-05-11,클렌징,,,,,,,Skin Moisture Burst Advanced Cleanser,Skin Moisture Burst Advanced Cleanser,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,,,,,FoamCleansing,,True
+,,,2026-05-11,스킨류,,P9T12600859,,,,,Verite  PDRN oil drop serum,Verite  PDRN oil drop serum,VERITE LABORATOIRE COMPANY LIMITED,VERITE,,,,,,,,,,,,,Spy,,,,Essence/Ampoule,,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260086501,,,,Rose Gold Cushion SPF50+ PA++++#30 Warm Honey,Rose Gold Cushion SPF50+ PA++++#30 Warm Honey,"ROSEGOLD CORP CO., LTD.",ROSE GOLD,,,,,,,,,,,,,Jah,,,,Foundation(Spongetype),,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260086401,,,,Rose Gold Cushion SPF50+ PA++++#25 Soft Nude,Rose Gold Cushion SPF50+ PA++++#25 Soft Nude,"ROSEGOLD CORP CO., LTD.",ROSE GOLD,,,,,,,,,,,,,Jah,,,,Foundation(Spongetype),,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260086301,,,,Rose Gold Cushion SPF50+ PA++++#20 Pure Ivory,Rose Gold Cushion SPF50+ PA++++#20 Pure Ivory,"ROSEGOLD CORP CO., LTD.",ROSE GOLD,,,,,,,,,,,,,Jah,,,,Foundation(Spongetype),,True
+,,,2026-05-12,립 메이크업,,,P3T1260086201,,,,2P Original Glass Blur Gloss _1,2P Original Glass Blur Gloss _1,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,LipTint(Dispersion),,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260086101,,,,2P Original Eye Primer Functions #Pale Ginger,2P Original Eye Primer Functions #Pale Ginger,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,Primer,,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260086001,,,,2P Original Eye Primer Functions#Pale Rose,2P Original Eye Primer Functions#Pale Rose,"2P Original Co.,Ltd.",2P Original,,,,,,,,,,,,,Jah,,,,Primer,,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260085801,,,,Dewy Matte Primer_1,Dewy Matte Primer_1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Primer,,True
+,,,2026-05-12,아이 메이크업,,,P3T2260085701,,,,Jet Set Eyebrow Mascara (Brown) _1,Jet Set Eyebrow Mascara (Brown) _1,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,Mascara,,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260086901,,,,Moleculogy cushion SPF50+ PA++++_neutral,Moleculogy cushion SPF50+ PA++++_neutral,"Brunchtime Global Co., Ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,Foundation(Spongetype),,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260086801,,,,Moleculogy cushion SPF50+ PA++++_beige,Moleculogy cushion SPF50+ PA++++_beige,"Brunchtime Global Co., Ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,Foundation(Spongetype),,True
+,,,2026-05-12,베이스 메이크업,,,P3T1260086701,,,,Moleculogy cushion SPF50+ PA++++_light,Moleculogy cushion SPF50+ PA++++_light,"Brunchtime Global Co., Ltd.",Moleculogy,,,,,,,,,,,,,Spy,,,,Foundation(Spongetype),,True
+,,,2026-05-13,클렌징,,,,,,,2-Phase Deep Cleansing,2-Phase Deep Cleansing,VERITE LABORATOIRE COMPANY LIMITED,Verite,,,,,,,,,,,,,,,,,Remover(2-Layer),,True
+,,,2026-05-13,스킨류,,,,,,,Body Tone Up Cream,Body Tone Up Cream,HOA SUNNY INTERNATIONAL XNK COMPANY LIMITED,HS,,,,,,,,,,,,,,,,,BodyLotion,,True
+,,,2026-05-13,선,,P9T12600873,,,,,SRICHAND UV Sun Stick SPF50+ PA++++,SRICHAND UV Sun Stick SPF50+ PA++++,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,SunProduct(OthersSkinCare),,True
+,,,2026-05-14,선,,P9T12600870,,,,,Hybrid sunscreen SPF50+ PA++++,Hybrid sunscreen SPF50+ PA++++,VERITE LABORATOIRE COMPANY LIMITED,VERITE,,,,,,,,,,,,,Spy,,,,SunCream,,True
+,,,2026-05-14,선,,P9T12600871,,,,,Hybrid sunscreen cream SPF50+ PA++++,Hybrid sunscreen cream SPF50+ PA++++,VERITE LABORATOIRE COMPANY LIMITED,VERITE,,,,,,,,,,,,,Spy,,,,SunCream,,True
+,,,2026-05-15,클렌징,,,,,,,Cleansing Balm,Cleansing Balm,"NONGCHAT INTER GROUP CO., LTD.",CHAT,,,,,,,,,,,,,,,,,CleansingBalm,,True
+,,,2026-05-15,클렌징,,,,,,,	Hand & Body Wash,	Hand & Body Wash,"SOWL Ventures Co., Ltd.",OLTRE,,,,,,,,,,,,,,,,,BodyCleanser,,True
+,,,2026-05-15,스킨류,,P9T12600885,,,,,Hand & Body Lotion,Hand & Body Lotion,"SOWL Ventures Co., Ltd.",OLTRE,,,,,,,,,,,,,,,,,BodyLotion,,True
+,,,2026-05-15,베이스 메이크업,,,P3T1260087401,,,,Cho Solar Pop Blush Highlight_1,Cho Solar Pop Blush Highlight_1,"CHO COSMETICS INTERNATIONAL CO.,LTD.",CHO,,,,,,,,,,,,,Ni,,,,Blusher(LiquidDispersion),,True
+,,,2026-05-15,베이스 메이크업,,,P3T1260088801,,,,Srichand Corrector Cream_Green,Srichand Corrector Cream_Green,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,MakeupBase,,True
+,,,2026-05-15,베이스 메이크업,,,P3T1260088701,,,,Srichand Corrector Cream_Blue,Srichand Corrector Cream_Blue,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,MakeupBase,,True
+,,,2026-05-15,베이스 메이크업,,,P3T1260088601,,,,Srichand Corrector Cream_Purple,Srichand Corrector Cream_Purple,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,MakeupBase,,True
+,,,2026-05-15,스킨류,,P9T12600876,,,,,Genuleaf Cicasome Double-Capsule Aqua Soothing Gel,Genuleaf Cicasome Double-Capsule Aqua Soothing Gel,"ARIGEO CO., LTD.",Arigeo,,,,,,,,,,,,,Belle,,,,EssenceOthers,,True
+,,,2026-05-15,크림류,,P9T12600877,,,,,Genuleaf Penta-Phyto Postbiotic Care Aqua Serum,Genuleaf Penta-Phyto Postbiotic Care Aqua Serum,"ARIGEO CO., LTD.",Arigeo,,,,,,,,,,,,,Belle,,,,Cream,,True
+,,,2026-05-15,스킨류,,P9T12600878,,,,,Genuleaf Enzyme Double Capsule Brightening Serum,Genuleaf Enzyme Double Capsule Brightening Serum,"ARIGEO CO., LTD.",Arigeo,,,,,,,,,,,,,Belle,,,,Essence/Ampoule,,True
+,,,2026-05-15,크림류,,P9T12600879,,,,,Genuleaf Triple Phyto-C Glow Infusion Moist Cream,Genuleaf Triple Phyto-C Glow Infusion Moist Cream,"ARIGEO CO., LTD.",Arigeo,,,,,,,,,,,,,Belle,,,,Cream,,True
+,,,2026-05-15,스킨류,,P9T12600881,,,,,Ceratory Intensive Hydro Barrier Repair Serum,Ceratory Intensive Hydro Barrier Repair Serum,"ARIGEO CO., LTD.",Arigeo,,,,,,,,,,,,,Belle,,,,Essence/Ampoule,,True
+,,,2026-05-15,크림류,,P9T12600882,,,,,Ceratory Barrier Recovery Deep Intensive Moist Cream,Ceratory Barrier Recovery Deep Intensive Moist Cream,"ARIGEO CO., LTD.",Arigeo,,,,,,,,,,,,,Belle,,,,Cream,,True
+,,,2026-05-15,팩/마스크,,P9T12600883,,,,,Aime Exo Glow Daily Pads,Aime Exo Glow Daily Pads,"NGAMDEE COTTON CO., LTD.",AIME,,,,,,,,,,,,,Belle,,,,PackOthers,,True
+,,,2026-05-15,팩/마스크,,P9T12600884,,,,,Aime Skin Reset Toner Pad,Aime Skin Reset Toner Pad,"NGAMDEE COTTON CO., LTD.",AIME,,,,,,,,,,,,,Belle,,,,PackOthers,,True
+,,,2026-05-18,선,,P9T12600890,,,,,ACCA - Barrier Mineral Sun Cream  SPF50+ PA++++,ACCA - Barrier Mineral Sun Cream  SPF50+ PA++++,"KARMARTS PUBLIC CO.,LTD.",ACCA,,,,,,,,,,,,,Jay,,,,SunCream,,True
+,,,2026-05-18,선,,P9T12600891,,,,,ACCA - Matte Sun Fluid SPF50+ PA++++,ACCA - Matte Sun Fluid SPF50+ PA++++,"KARMARTS PUBLIC CO.,LTD.",ACCA,,,,,,,,,,,,,Jay,,,,SunLotion,,True
+,,,2026-05-19,베이스 메이크업,,,P3T1260088901,,,,Fleen Beauty Energizing Skin Perfector_1,Fleen Beauty Energizing Skin Perfector_1,"INNOFEENA CO., LTD.",Fleen,,,,,,,,,,,,,Ni,,,,MakeupBase,,True
+,,,2026-05-19,베이스 메이크업,,,P3T1260089701,,,,MST foundation stick 2.0 （MATTE) LF110,MST foundation stick 2.0 （MATTE) LF110,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Jom,,,,Foundation(Sticktype),,True
+,,,2026-05-19,베이스 메이크업,,,P3T1260089601,,,,MST foundation stick 2.0 （MATTE) LF100,MST foundation stick 2.0 （MATTE) LF100,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Jom,,,,Foundation(Sticktype),,True
+,,,2026-05-19,베이스 메이크업,,,P3T1260089401,,,,Pore Fusion Longwear Foundation SPF50+ PA++++_beige,Pore Fusion Longwear Foundation SPF50+ PA++++_beige,"Mega Cosmetic (Thailand) Co.,Ltd.",ODBO,,,,,,,,,,,,,Spy,,,,Foundation,,True
+,,,2026-05-19,베이스 메이크업,,,P3T1260089301,,,,Pore Fusion Longwear Foundation SPF50+ PA++++_neutral,Pore Fusion Longwear Foundation SPF50+ PA++++_neutral,"Mega Cosmetic (Thailand) Co.,Ltd.",ODBO,,,,,,,,,,,,,Spy,,,,Foundation,,True
+,,,2026-05-19,베이스 메이크업,,,P3T1260089201,,,,Pore Fusion Longwear Foundation SPF50+ PA++++_light,Pore Fusion Longwear Foundation SPF50+ PA++++_light,"Mega Cosmetic (Thailand) Co.,Ltd.",ODBO,,,,,,,,,,,,,Spy,,,,Foundation,,True
+,,,2026-05-19,크림류,,P9T12600895,,,,,Karmarts - Gel cream (Beads),Karmarts - Gel cream (Beads),"KARMARTS PUBLIC CO.,LTD.",CathyDoll,,,,,,,,,,,,,Jay,,,,CreamOthers,,True
+,,,2026-05-22,립 메이크업,,,P3T1260090701,,,,Rose PDRN Lip Balm_1,Rose PDRN Lip Balm_1,"H.A.B International Co.,Ltd",FRESH DROP,,,,,,,,,,,,,May,,,,LipLiquid,,True
+,,,2026-05-22,립 메이크업,,,P3T1260090501,,,,Non-Sticky Glossy Lip Glaze_08,Non-Sticky Glossy Lip Glaze_08,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,LipGloss(Emulsion),,True
+,,,2026-05-22,립 메이크업,,,P3T1260090401,,,,Non-Sticky Glossy Lip Glaze_07,Non-Sticky Glossy Lip Glaze_07,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,LipGloss(Emulsion),,True
+,,,2026-05-22,립 메이크업,,,P3T1260090301,,,,Non-Sticky Glossy Lip Glaze_06,Non-Sticky Glossy Lip Glaze_06,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,LipGloss(Emulsion),,True
+,,,2026-05-22,립 메이크업,,,P3T1260090201,,,,Non-Sticky Glossy Lip Glaze_05,Non-Sticky Glossy Lip Glaze_05,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,LipGloss(Emulsion),,True
+,,,2026-05-22,립 메이크업,,,P3T1260090101,,,,Non-Sticky Glossy Lip Glaze_04,Non-Sticky Glossy Lip Glaze_04,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,LipGloss(Emulsion),,True
+,,,2026-05-22,립 메이크업,,,P3T1260090001,,,,Non-Sticky Glossy Lip Glaze_03,Non-Sticky Glossy Lip Glaze_03,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,LipGloss(Emulsion),,True
+,,,2026-05-22,립 메이크업,,,P3T1260089901,,,,Non-Sticky Glossy Lip Glaze_02,Non-Sticky Glossy Lip Glaze_02,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,LipGloss(Emulsion),,True
+,,,2026-05-22,립 메이크업,,,P3T1260089801,,,,Non-Sticky Glossy Lip Glaze_01,Non-Sticky Glossy Lip Glaze_01,"K.M. Interlab Co.,Ltd.",Cute Press,,,,,,,,,,,,,May,,,,LipGloss(Emulsion),,True
+,,,2026-05-22,아이 메이크업,,,P3T1260091401,,,,Everpink Eyelash Serum,Everpink Eyelash Serum,"EVERPINK Co.,Ltd",Everpink,,,,,,,,,,,,,Nui ,,,,Mascara(Transparent),,True
+,,,2026-05-22,베이스 메이크업,,,P3T1260091301,,,,Jovina - Primer Stick_1,Jovina - Primer Stick_1,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Jay,,,,Primer,,True
+,,,2026-05-22,베이스 메이크업,,,P3T1260091201,,,,Duo-Luminous Melasma Melter Concealer_1,Duo-Luminous Melasma Melter Concealer_1,SKIN LABORATORY PUBLIC COMPANY LIMITED,Skinsista,,,,,,,,,,,,,Spy,,,,Concealer(Emulsion),,True
+,,,2026-05-22,스킨류,,P9T12600906,,,,,Rose PDRN Jelly Serum Mist,Rose PDRN Jelly Serum Mist,"H.A.B International Co.,Ltd",FRESH DROP,,,,,,,,,,,,,May,,,,FacialMist,,True
+,,,2026-05-22,크림류,,P9T12600911,,,,,Face cream ,Face cream ,AI&MI PTE. LTD.,IEM luxury,,,,,,,,,,,,,Spy,,,,Cream,,True
+,,,2026-05-22,선,,P9T12600908,,,,,Deesay Daily Sunscreen Serum SPF50+ PA+++++,Deesay Daily Sunscreen Serum SPF50+ PA+++++,"Fimiq Co.,Ltd.",Deesay,,,,,,,,,,,,,Ni,,,,SunLotion,,True
+,,,2026-05-22,선,,P9T12600923,,,,,Fleen Beauty Cooling Hybrid Collagen Sunscreen SPF50+ PA++++,Fleen Beauty Cooling Hybrid Collagen Sunscreen SPF50+ PA++++,"INNOFEENA CO., LTD.",Fleen,,,,,,,,,,,,,Ni,,,,SunLotion,,True
+,,,2026-05-24,크림류,,P9T12600924,,,,,Srichand B5 Light Cream_New,Srichand B5 Light Cream_New,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,Cream,,True
+,,,2026-05-24,스킨류,,P9T12600925,,,,,Srichand SOS Concentrate Shot,Srichand SOS Concentrate Shot,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,EssenceOthers,,True
+,,,2026-05-24,스킨류,,P9T12600926,,,,,SRICHAND Skin Moisture Burst First Serum Mist_Bi phase,SRICHAND Skin Moisture Burst First Serum Mist_Bi phase,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,FacialMist,,True
+,,,2026-05-24,스킨류,,P9T12600927,,,,,SRICHAND Skin Moisture Burst First Serum Jelly Mist,SRICHAND Skin Moisture Burst First Serum Jelly Mist,"Srichand United Dispensary Co., Ltd.",Srichand,,,,,,,,,,,,,Nui,,,,FacialMist,,True
+,,,2026-05-25,립 메이크업,,,P3T1260092201,,,,Glossip Girl_4,Glossip Girl_4,17127090 Canada Inc.,Tintation,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-05-25,립 메이크업,,,P3T1260092101,,,,Glossip Girl_3,Glossip Girl_3,17127090 Canada Inc.,Tintation,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-05-25,립 메이크업,,,P3T1260092001,,,,Glossip Girl_2,Glossip Girl_2,17127090 Canada Inc.,Tintation,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-05-25,립 메이크업,,,P3T1260091901,,,,Glossip Girl_1,Glossip Girl_1,17127090 Canada Inc.,Tintation,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-05-25,립 메이크업,,,P3T1260091801,,,,Power Pout_4,Power Pout_4,17127090 Canada Inc.,Tintation,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-05-25,립 메이크업,,,P3T1260091701,,,,Power Pout_3,Power Pout_3,17127090 Canada Inc.,Tintation,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-05-25,립 메이크업,,,P3T1260091601,,,,Power Pout_2,Power Pout_2,17127090 Canada Inc.,Tintation,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-05-25,립 메이크업,,,P3T1260091501,,,,Power Pout_1,Power Pout_1,17127090 Canada Inc.,Tintation,,,,,,,,,,,,,Fay,,,,LipGloss(Emulsion),,True
+,,,2026-05-25,베이스 메이크업,,,P3T1260093601,,,,Airy Barely Fluid Cushion_5,Airy Barely Fluid Cushion_5,MADAME BIOSCIENCE PUBLIC COMPANY LIMITED.,Madame Louise,,,,,,,,,,,,,Molly,,,,Foundation(Spongetype),,True
+,,,2026-05-25,베이스 메이크업,,,P3T1260093501,,,,Airy Barely Fluid Cushion_4,Airy Barely Fluid Cushion_4,MADAME BIOSCIENCE PUBLIC COMPANY LIMITED.,Madame Louise,,,,,,,,,,,,,Molly,,,,Foundation(Spongetype),,True
+,,,2026-05-25,베이스 메이크업,,,P3T1260093401,,,,Airy Barely Fluid Cushion_3,Airy Barely Fluid Cushion_3,MADAME BIOSCIENCE PUBLIC COMPANY LIMITED.,Madame Louise,,,,,,,,,,,,,Molly,,,,Foundation(Spongetype),,True
+,,,2026-05-25,베이스 메이크업,,,P3T1260093301,,,,Airy Barely Fluid Cushion_2,Airy Barely Fluid Cushion_2,MADAME BIOSCIENCE PUBLIC COMPANY LIMITED.,Madame Louise,,,,,,,,,,,,,Molly,,,,Foundation(Spongetype),,True
+,,,2026-05-25,베이스 메이크업,,,P3T1260093201,,,,Airy Barely Fluid Cushion_1,Airy Barely Fluid Cushion_1,MADAME BIOSCIENCE PUBLIC COMPANY LIMITED.,Madame Louise,,,,,,,,,,,,,Molly,,,,Foundation(Spongetype),,True
+,,,2026-05-25,크림류,,P9T12600928,,,,,Eye cream ,Eye cream ,AI&MI PTE. LTD.,IEM luxury,,,,,,,,,,,,,Spy,,,,EyeCream,,True
+,,,2026-05-25,선,,P9T12600930,,,,,IEM luxury nourishing UV gel ,IEM luxury nourishing UV gel ,AI&MI PTE. LTD.,IEM luxury,,,,,,,,,,,,,Spy,,,,SunProduct(OthersSkinCare),,True
+,,,2026-05-25,스킨류,,P9T12600931,,,,,Moisture essence,Moisture essence,AI&MI PTE. LTD.,IEM luxury,,,,,,,,,,,,,Spy,,,,Essence/Ampoule,,True
+,,,2026-05-25,크림류,,P9T12600937,,,,,Duo-Luminous Melasma ,Duo-Luminous Melasma ,SKIN LABORATORY PUBLIC COMPANY LIMITED,Skinsista,,,,,,,,,,,,,Spy,,,,CreamOthers,,True
+,,,2026-05-25,크림류,,P9T12600938,,,,,IEM VENUS RADIANCE TONE-UP CREAM II,IEM VENUS RADIANCE TONE-UP CREAM II,AI&MI PTE. LTD.,IEM luxury,,,,,,,,,,,,,Spy,,,,CreamOthers,,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260095801,,,,Jovina-Cushion_03,Jovina-Cushion_03,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,jay,,,,Foundation(Spongetype),,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260095701,,,,Jovina-Cushion_02,Jovina-Cushion_02,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,jay,,,,Foundation(Spongetype),,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260095601,,,,Jovina-Cushion_01,Jovina-Cushion_01,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,jay,,,,Foundation(Spongetype),,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260095401,,,,Jovina-Professional foundation_03,Jovina-Professional foundation_03,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,jay,,,,Foundation,,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260095301,,,,Jovina-Professional foundation_02,Jovina-Professional foundation_02,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,jay,,,,Foundation,,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260095201,,,,Jovina-Professional foundation_01,Jovina-Professional foundation_01,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,jay,,,,Foundation,,True
+,,,2026-05-26,립 메이크업,,,P3T1260095101,,,,Glitter Melting_4,Glitter Melting_4,"ABC Beauty Co.,Ltd",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-05-26,립 메이크업,,,P3T1260095001,,,,Glitter Melting_3,Glitter Melting_3,"ABC Beauty Co.,Ltd",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-05-26,립 메이크업,,,P3T1260094901,,,,Glitter Melting_2,Glitter Melting_2,"ABC Beauty Co.,Ltd",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-05-26,립 메이크업,,,P3T1260094801,,,,Glitter Melting_1,Glitter Melting_1,"ABC Beauty Co.,Ltd",Hearty Heart,,,,,,,,,,,,,Tong,,,,Lipstick,,True
+,,,2026-05-26,립 메이크업,,,P3T1260094501,,,,Twentywendy Lip Prep_1,Twentywendy Lip Prep_1,"TWENTYWENDY CO.,LTD.",Twentywendy,,,,,,,,,,,,,Ni,,,,LipTint(Emulsion),,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260094401,,,,MISTINE COVER ALL FOUNDATION LIMPID AND SOFT FOCUS(NN120S)-4,MISTINE COVER ALL FOUNDATION LIMPID AND SOFT FOCUS(NN120S)-4,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Olivia,,,,Foundation,,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260094301,,,,MISTINE COVER ALL FOUNDATION LIMPID AND SOFT FOCUS(LP110S)-3,MISTINE COVER ALL FOUNDATION LIMPID AND SOFT FOCUS(LP110S)-3,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Olivia,,,,Foundation,,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260094201,,,,MISTINE COVER ALL FOUNDATION LIMPID AND SOFT FOCUS(LF110S)-2,MISTINE COVER ALL FOUNDATION LIMPID AND SOFT FOCUS(LF110S)-2,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Olivia,,,,Foundation,,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260094101,,,,MISTINE COVER ALL FOUNDATION LIMPID AND SOFT FOCUS(LF100S)-1,MISTINE COVER ALL FOUNDATION LIMPID AND SOFT FOCUS(LF100S)-1,COS HONGKONG BUSINESS Limited,MISTINE,,,,,,,,,,,,,Olivia,,,,Foundation,,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260094001,,,,MEI LINDA CORRECTING BASE - AURA PEACH_1,MEI LINDA CORRECTING BASE - AURA PEACH_1,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,MakeupBase,,True
+,,,2026-05-26,베이스 메이크업,,,P3T1260093901,,,,MEI LINDA CORRECTING BASE - AURA PINK_1,MEI LINDA CORRECTING BASE - AURA PINK_1,"M.D.International Cosmetics (Thailand) Co., Ltd.",Mei Linda,,,,,,,,,,,,,Ni,,,,MakeupBase,,True
+,,,2026-05-26,선,,P9T12600959,,,,,Jovina- cream tone up_Purple,Jovina- cream tone up_Purple,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Jay,,,,SunCream,,True
+,,,2026-05-26,선,,P9T12600960,,,,,Jovina- cream tone up_Blue,Jovina- cream tone up_Blue,"GK Beauty Co., Ltd.",Jovina,,,,,,,,,,,,,Jay,,,,SunCream,,True
+,,,2026-05-27,스킨류,,,,,,,Body Oil - Unreal,Body Oil - Unreal,MIZUHADA GROUP COMPANY LIMITED,Mizumi,,,,,,,,,,,,,Ni,,,,BodyOil,,True
+,,,2026-05-27,클렌징,,P9T12600880,,,,,	Ceratory Barrier Care Biome Infusion Milky Cleanser,	Ceratory Barrier Care Biome Infusion Milky Cleanser,"ARIGEO CO., LTD.",Arigeo,,,,,,,,,,,,,Belle,,,,CleansingLotion,,True
+,,,2026-05-27,베이스 메이크업,,,P3T1260096301,,,,Oriental Princess BB Pressed Powder _1,Oriental Princess BB Pressed Powder _1,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,PowderPact,,True
+,,,2026-05-27,베이스 메이크업,,,P3T1260096201,,,,Oriental Princess BB Foundation_1,Oriental Princess BB Foundation_1,"K.M. Interlab Co.,Ltd.",Oriental Princess,,,,,,,,,,,,,Auey,,,,BBCream,,True
+,,,2026-05-27,스킨류,,P9T12600961,,,,,Jelly Water Bomb Serum_PDRN,Jelly Water Bomb Serum_PDRN,"ABC Beauty Co.,Ltd",BELLA PREMIUM,,,,,,,,,,,,,Tong,,,,Essence/Ampoule,,True
+,,,2026-05-27,선,,P9T12600965,,,,,Lightweight Breathable Sunscreen SPF50+ PA++++,Lightweight Breathable Sunscreen SPF50+ PA++++,"ABC Beauty Co.,Ltd", Hearty Heart,,,,,,,,,,,,,Tong,,,,SunCream,,True
+,,,2026-05-28,아이 메이크업,,,P3T1260099501,,,,Cho Infinite Lash Power Mascara_1,Cho Infinite Lash Power Mascara_1,"CHO COSMETICS INTERNATIONAL CO.,LTD.",Fay,,,,,,,,,,,,,Ni,,,,Mascara,,True
+,,,2026-05-28,립 메이크업,,,P3T1260099301,,,,Luster Lip Bomb_3,Luster Lip Bomb_3,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,Lipstick,,True
+,,,2026-05-28,립 메이크업,,,P3T1260099201,,,,Luster Lip Bomb_2,Luster Lip Bomb_2,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,Lipstick,,True
+,,,2026-05-28,립 메이크업,,,P3T1260099101,,,,Luster Lip Bomb_1,Luster Lip Bomb_1,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,Lipstick,,True
+,,,2026-05-28,스킨류,,P9T12600966,,,,,NIDA YOUTHFUL FORMULA YAM MUCIN ABCE BOOSTING SERUM  ,NIDA YOUTHFUL FORMULA YAM MUCIN ABCE BOOSTING SERUM  ,Proso Inc.,NIDA,,,,,,,,,,,,,Seoeun,,,,Essence/Ampoule,,True
+,,,2026-05-28,크림류,,P9T12600967,,,,,NIDA YOUTHFUL FORMULA YAM MUCIN ABCE FACIAL CREAM ,NIDA YOUTHFUL FORMULA YAM MUCIN ABCE FACIAL CREAM ,Proso Inc.,NIDA,,,,,,,,,,,,,Seoeun,,,,Cream,,True
+,,,2026-05-28,스킨류,,P9T12600968,,,,,NIDA YOUTH-BOOSTING RICE MILKY TONER  ,NIDA YOUTH-BOOSTING RICE MILKY TONER  ,Proso Inc.,NIDA,,,,,,,,,,,,,Seoeun,,,,Toner,,True
+,,,2026-05-28,스킨류,,P9T12600969,,,,,NIDA PEPTIDE PROPOLIS RENEWAL SERUM  ,NIDA PEPTIDE PROPOLIS RENEWAL SERUM  ,Proso Inc.,NIDA,,,,,,,,,,,,,Seoeun,,,,Essence/Ampoule,,True
+,,,2026-05-28,크림류,,P9T12600994,,,,,Deesay Moisture Gel Cream,Deesay Moisture Gel Cream,"Fimiq Co.,Ltd.",Deesay,,,,,,,,,,,,,Ni,,,,Cream,,True
+,,,2026-05-29,립 메이크업,,,P3T1260104101,,,,Srichand Super matte lip_1,Srichand Super matte lip_1,"Srichand United Dispensary Co., Ltd",Srichand,,,,,,,,,,,,,Nui,,,,LipLiquid,,True
+,,,2026-05-29,립 메이크업,,,P3T1260103101,,,,Pudding Pot_6,Pudding Pot_6,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipstickOthers,,True
+,,,2026-05-29,립 메이크업,,,P3T1260103001,,,,Pudding Pot_5,Pudding Pot_5,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipstickOthers,,True
+,,,2026-05-29,립 메이크업,,,P3T1260102901,,,,Pudding Pot_4,Pudding Pot_4,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipstickOthers,,True
+,,,2026-05-29,립 메이크업,,,P3T1260102801,,,,Pudding Pot_3,Pudding Pot_3,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipstickOthers,,True
+,,,2026-05-29,립 메이크업,,,P3T1260102701,,,,Pudding Pot_2,Pudding Pot_2,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipstickOthers,,True
+,,,2026-05-29,립 메이크업,,,P3T1260102601,,,,Pudding Pot_1,Pudding Pot_1,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipstickOthers,,True
+,,,2026-05-29,립 메이크업,,,P3T1260102501,,,,Wonder Stay Lip Ticker_3,Wonder Stay Lip Ticker_3,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipTint(Emulsion),,True
+,,,2026-05-29,립 메이크업,,,P3T1260102401,,,,Wonder Stay Lip Ticker_2,Wonder Stay Lip Ticker_2,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipTint(Emulsion),,True
+,,,2026-05-29,립 메이크업,,,P3T1260102301,,,,Wonder Stay Lip Ticker_1,Wonder Stay Lip Ticker_1,TRENT LIMITED.,Zudio Beauty,,,,,,,,,,,,,Fay,,,,LipTint(Emulsion),,True
+,,,2026-05-29,크림류,,P9T12601033,,,,,The Skingevity Solution HydroCream Moisturizer,The Skingevity Solution HydroCream Moisturizer,SKIN LABORATORY PUBLIC COMPANY LIMITED,Skinsista,,,,,,,,,,,,,Spy,,,,Cream,,True

@@ -16,7 +16,7 @@
 | `gcc_category` | GCC 카테고리 대분류 | 카테고리 | 扩大 | Category(2308) | 회의용 분류 | Extended Category |
 | `proc_status` | 의뢰 상태 | 상태 | 상태 | - | - | - |
 | `product_code` | 신제품접수코드 | 신제품접수코드 | 신제품접수코드 | NPD Product No | NPD Code | NPD Product No |
-| `bulk_cod` | 벌크구분코드 | 벌크구분코드 | 벌크구분코드 | NPD Bulk No | NPD Code | NPD Bulk No |
+| `bulk_code` | 벌크구분코드 | 벌크구분코드 | 벌크구분코드 | NPD Bulk No | NPD Code | NPD Bulk No |
 | `mitem` | 벌크코드 | SAP 벌크코드 | SAP 벌크코드 | - | - | - |
 | `item2` | 완제품코드 | SAP 제품코드 | SAP 제품코드 | - | - | - |
 | `forml_code` | 소제형코드 | 제형코드 | 제형코드 | Small class code | - | - |
